@@ -72,11 +72,12 @@
 直接下载Windows版：<a href="storage.googleapis.com/windows_updates/setup_1_1_1006.exe" target="_blank">storage.googleapis.com/windows_updates/setup_1_1_1006.exe</a><br><br>
 
 
-<h1>其他款电子书</h1>
+<div align="center"><h1>其他必看电子书</h1></div>
+
 <table  cellspacing="1" cellpadding="1">
 <tr  width="880">
-	<td  width="280"></td>
-	<td  width="600">說明</td>
+	<td align="center" width="600">书名</td>
+	<td align="center"  width="600">说明</td>
 </tr>
 	<tr>
 	<td> 三退大潮席卷全球 三亿人觉醒见证中共末日</td>
