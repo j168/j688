@@ -1,12 +1,22 @@
 
+
+
+
+<div align="center"><img src="https://github.com/j168/j688/blob/master/menu/201804090t.jpg" width="680" ></div>
+
 <div align="center"><h1>手机上好看的电子书 (ePub版)</h1></div>
    
 
 
- 【明慧网二零一六年七月二十八日】根据明慧网2009年3月26日刊载的中文chm格式的《九评共产党》制作成ePub格式的电子书。 下载链接为：下载链接为：<a href="https://github.com/j168/j688/blob/master/epub/9ping.epub?raw=true" target="_blank">《九评共产党》ePub格式的电子书</a><p></p>
+ 【明慧网二零一六年七月二十八日】根据明慧网2009年3月26日刊载的中文chm格式的《九评共产党》制作成ePub格式的电子书。 下载链接为：下载链接为：<a href="https://github.com/j168/j688/blob/master/epub/jpgcdm4a5k.epub?raw=true" target="_blank">《九评共产党》ePub格式的电子书</a><p></p>
 
   
-  ePub格式的电子书可以用手机、平板电脑、电脑上的网络浏览器或阅读软件打开查看。ePub是在手持阅读设备（包括手机等）上最受支持的电子书格式，很多手持设备自带的阅读器都支持ePub而无需安装额外软件，苹果手机自带的阅读器iBooks，以及安卓手机上谷歌的阅读器软件“Play 图书”（Play Books）软件都很好的支持ePub格式。ePub格式的电子书能自动根据阅读器屏幕的大小，手持方向等实时排版以获得优化的阅读效果。读者可以在ePub书里添加书签、注释，改变字体及大小，能搜索，非常方便。<p></p>
+ ### ePub格式的电子书可以用手机、平板电脑、电脑上的网络浏览器或阅读软件打开查看。
+### (推荐)Reasily - EPUB 阅读器，可以觀看視頻、音頻EPUB。<a href="https://github.com/j168/j688/blob/master/download/Reasily1802h.apk?raw=true">直接下载</a>
+
+  ePub是在手持阅读设备（包括手机等）上最受支持的电子书格式，很多手持设备自带的阅读器都支持ePub而无需安装额外软件，苹果手机自带的阅读器iBooks，以及安卓手机上谷歌的阅读器软件“Play 图书”（Play Books）软件都很好的支持ePub格式。
+  
+  ePub格式的电子书能自动根据阅读器屏幕的大小，手持方向等实时排版以获得优化的阅读效果。读者可以在ePub书里添加书签、注释，改变字体及大小，能搜索，非常方便。<p></p>
 
 <h2>一、手机中打开方法</h2>
 
