@@ -10,7 +10,7 @@
   
  　　　　　　　　　　　　　　　　　　　✪✪ **下载免费翻墙软件，方便又快速** ✪✪
 <body>
-	<div align="center">
+	 <div align="center">
      <table border="0" width="200%" align=center" bordercolor="gold">
   <tr>
 	<td></td>
@@ -39,9 +39,9 @@
 	<td><a href="https://github.com/j168/j688/blob/master/fq/iNTD_TVsp1.apk?raw=true">TVsp1</a></td>
 
 </tr>
-</table></div>
-<a href="https://github.com/j168/j688/blob/master/Epub.md"><img src="https://github.com/j168/j688/blob/master/menu/2018-01-29_e_m.jpg" 
-![](https://github.com/j168/j688/blob/master/menu/2018-01-29_e_m.jpg) <p></a>  
+</table> 
+<div align="center"><a href="https://github.com/j168/j688/blob/master/Epub.md"><img src="https://github.com/j168/j688/blob/master/menu/2018-01-29_e_m.jpg"
+![](https://github.com/j168/j688/blob/master/menu/2018-01-29_e_m.jpg) <p></a>  </div>
 
 
 
