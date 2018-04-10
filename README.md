@@ -39,22 +39,21 @@
 	<td><a href="https://github.com/j168/j688/blob/master/fq/iNTD_TVsp1.apk?raw=true">TVsp1</a></td>
 
 </tr>
-</table> 
+</table> <hr>
 <div align="center"><a href="https://github.com/j168/j688/blob/master/Epub.md"><img src="https://github.com/j168/j688/blob/master/menu/2018-01-29_e_m.jpg"
 ![](https://github.com/j168/j688/blob/master/menu/2018-01-29_e_m.jpg) <p></a>  </div>
 
 
-
- <h1>铁证如山<br><p>
+<hr>
+ <div align="center"><h1>铁证如山<br><p>
  <h2>中共大量活摘法轮功学员器官国家犯罪罪证讲座 <p>
      2017年12月10日             
 <p>
 <td>
 		<a href="https://vimeo.com/246679660"><img src="https://github.com/j168/j688/blob/master/img/2018-01-29_173701.jpg"                        width="500" hight="25"></a>	
-		</td>	<tr>
+	</td>	<tr></div>
 
-
- <h3> 简介<br>
+<h3> 简介<br>
 <p>
 <p>《铁证如山》（新版），是一部反映中共活摘器官暴行证据最多最全面系统的大型科教片。影片汇集追查国际十多年来对中共活摘的调查报告的精华，通过讲座的手法，更深入细致地介绍了证据之间的逻辑关系、调查背景和资料来源，系统地揭示了中共活摘罪行真实存在的铁证、超越历史的邪恶程度。<p>
 
