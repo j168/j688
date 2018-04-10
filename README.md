@@ -6,13 +6,13 @@
 	
 <div align="center"><img src="https://github.com/j168/j688/blob/master/menu/0409sy.jpg" width="700" ></div>
 <div align="center"><img src="https://github.com/j168/j688/blob/master/menu/201804090t.jpg" width="700" ></div>
- 
+ <hr>
   
  　　　　　　　　　　　　　　　　　　　✪✪ **下载免费翻墙软件，方便又快速** ✪✪
 <body>
 	<div align="center">
      <table border="0" width="200%" align=center" bordercolor="gold">
-  <tr div align="center">
+  <tr>
 	<td></td>
 	<td>安卓版</td>
 	<td>桌机版</td>
@@ -39,9 +39,9 @@
 	<td><a href="https://github.com/j168/j688/blob/master/fq/iNTD_TVsp1.apk?raw=true">TVsp1</a></td>
 
 </tr>
-</table>
+</table></div>
 <a href="https://github.com/j168/j688/blob/master/Epub.md"><img src="https://github.com/j168/j688/blob/master/menu/2018-01-29_e_m.jpg" 
-![](https://github.com/j168/j688/blob/master/menu/2018-01-29_e_m.jpg) <p></a> 
+![](https://github.com/j168/j688/blob/master/menu/2018-01-29_e_m.jpg) <p></a>  
 
 
 
