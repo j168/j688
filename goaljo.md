@@ -2,8 +2,8 @@
 <tr>
 	<td colspan=3>
 
-<div align="center"><img src="https://github.com/j168/j688/blob/master/menu/20180412st.jpg" width="680" ></div>
-  <div align="center"><img src="https://github.com/j168/j688/blob/master/menu/20180412sy.jpg" width="680" ></div>
+<div align="center"><img src="https://github.com/j168/j688/blob/master/menu/20180412st.jpg" width="780" ></div>
+  <div align="center"><img src="https://github.com/j168/j688/blob/master/menu/20180412sy.jpg" width="780" ></div>
 
 <br/>
 
