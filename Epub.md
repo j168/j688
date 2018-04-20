@@ -78,10 +78,14 @@
 <tr  width="880">
 	<td align="center" width="600">书名</td>
 	<td align="center"  width="600">说明</td>
-</tr>
+</tr> 
 <tr>
 	<td>【法轮大法洪传世界】</td>
        <td><a href="https://github.com/j168/j688/blob/master/epub/fldfhao.epub?raw=true">圖文、視頻</a></td>
+</tr>
+<tr>
+	<td>【法轮大法洪传世界】</td>
+      <td><a href="https://github.com/j168/j688/blob/master/epub/300Mst.epub?raw=true">圖文、視頻</a></td>
 </tr>
 <tr>
 	<td>【共产主义的终极目的中国篇】</td>
