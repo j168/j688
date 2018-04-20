@@ -3,7 +3,7 @@
 	<td colspan=3>
 
 <div align="center"><img src="https://github.com/j168/j688/blob/master/menu/20180420t.jpg" width="780" ></div>
-  <div align="center"><img src="https://github.com/j168/j688/blob/master/menu/20180416sy.jpg" width="780" ></div>
+  <div align="center"><img src="https://github.com/j168/j688/blob/master/menu/20180420sy.jpg" width="780" ></div>
 
 <br/>
 
