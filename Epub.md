@@ -84,7 +84,7 @@
        <td><a href="https://github.com/j168/j688/blob/master/epub/fldfhao.epub?raw=true">圖文、視頻</a></td>
 </tr>
 <tr>
-	<td>【法轮大法洪传世界】</td>
+	<td>【三亿退党潮-万人的觉醒之旅】</td>
       <td><a href="https://github.com/j168/j688/blob/master/epub/300Mst.epub?raw=true">圖文、視頻</a></td>
 </tr>
 <tr>
