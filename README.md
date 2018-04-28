@@ -5,7 +5,7 @@
 <tr>
 	
 <div align="center"><img src="https://github.com/j168/j688/blob/master/menu/20180428st.jpg" width="700" ></div>
-<div align="center"><img src="https://github.com/j168/j688/blob/master/menu/20180424st.jpg" width="700" ></div>
+<div align="center"><img src="https://github.com/j168/j688/blob/master/menu/20180428sy.jpg" width="700" ></div>
  <hr>
   
  　　　　　　　　　　　　　　　　　　　✪✪ **下载免费翻墙软件，方便又快速** ✪✪
