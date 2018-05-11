@@ -4,7 +4,7 @@
 <table>
 <tr>
 	
-<div align="center"><img src="https://github.com/j168/j688/blob/master/menu/2018-0510st.jpg" width="700" ></div>
+<div align="center"><img src="https://github.com/j168/j688/blob/master/menu/2018-0511st.jpg" width="700" ></div>
 <div align="center"><img src="https://github.com/j168/j688/blob/master/menu/2018-0511sy.jpg" width="700" ></div>
  <hr>
   
