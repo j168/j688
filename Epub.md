@@ -4,6 +4,9 @@
 
 <div align="center"><img src="https://github.com/j168/j688/blob/master/menu/2018-0605st.jpg" width="780" ></div>
 
+<br><br>
+<td><a href="https://github.com/j168/j688/blob/master/sof.md"><img src="https://github.com/j168/j688/blob/master/menu/20180606fu.jpg" width="600"  border="0" alt=""></a></td>
+<br>
 <div align="center"><h1>手机上好看的电子书 (ePub版)</h1></div>
    
 
