@@ -31,11 +31,11 @@
 </tr>
 <tr>
 <td><a href="https://github.com/j168/j688/blob/master/fq/u1704.zip?raw=true"><img src="https://github.com/j168/j688/blob/master/menu/wu.jpg" align="middle" width="300" alt="wu"></td>
-<td><a href="https://github.com/j168/j688/blob/master/fq/um4.2.apk?raw=true"><img src="https://github.com/j168/j688/blob/master/menu/wa-.jpg" align="middle" width="300" alt="wa-"></a></td>
+<td><a href="https://github.com/j168/j688/blob/master/fq/um.apk?raw=true"><img src="https://github.com/j168/j688/blob/master/menu/wa-.jpg" align="middle" width="300" alt="wa-"></a></td>
 <td><a href="https://github.com/j168/j688/blob/master/fq/u1704.zip?raw=true"><img src="https://github.com/j168/j688/blob/master/menu/wj-.jpg" align="middle" width="300" alt="wj-"></a></td>	
 </tr>
 <tr>
-	<td><a href="https://github.com/j168/j688/blob/master/fq/um4.2.apk?raw=true"><img src="https://github.com/j168/j688/blob/master/menu/wu1.jpg" align="middle" width="300" alt="wu1"></a></td>
+	<td><a href="https://github.com/j168/j688/blob/master/fq/um.apk?raw=true"><img src="https://github.com/j168/j688/blob/master/menu/wu1.jpg" align="middle" width="300" alt="wu1"></a></td>
 	<td><a href="https://github.com/j168/j688/blob/master/fq/Green_iPPOTV.exe?raw=true"><img src="https://github.com/j168/j688/blob/master/menu/ip.jpg" align="middle" width="300" alt="ip"></a></td><p>
 	<td><a href="https://github.com/gofun72/telove/blob/master/soft/Green_iPPOTV.exe?raw=true"><img src="https://github.com/j168/j688/blob/master/menu/ip-1v.jpg" align="middle" width="300" alt="ip-1v"></a></td>	
 	</tr><p>
