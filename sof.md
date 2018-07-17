@@ -1,6 +1,6 @@
 
 <table align="center" >
-<div align="center"><img src="https://github.com/j168/j688/blob/master/menu/20180714sy.jpg" width="800" hight="30"></div>
+<div align="center"><img src="https://github.com/j168/j688/blob/master/menu/2018-0718st.jpg" width="800" hight="30"></div>
 
 	
 ＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
