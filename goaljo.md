@@ -87,12 +87,14 @@
 	<td><center></center></td>
 </table>
 
+<td><a href="https://github.com/goodabc/GCC/blob/master/jysl.md"><img src="https://github.com/j168/j688/blob/master/img/2018-05-21goal%E7%95%8C.jpg" width="500"  border="0" alt=""></a></td>
+<h3><td><center><a href="https://github.com/goodabc/GCC/blob/master/jysl.md">【魔鬼在统治着我们的世界
+──共产党的幽灵并没有随着东欧共产党的解体而消失】</a></center></td> </h3>
+
+
+
 
   <div align="center"><img src="https://github.com/j168/j688/blob/master/menu/2018-0524sy.jpg" width="780" ></div>
-
-
-
-
 
 <td><!-- <a href="https://github.com/j168/j688/blob/master/ebook/epub/goalCh6.epub?raw=true"><img src="https://github.com/j168/j688/blob/master/img/coal123AS.jpg" width="265"  border="0" alt=""></a> --></td>
 
