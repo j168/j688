@@ -94,7 +94,7 @@
 	
 <tr>
 <td>【《魔鬼在统治着我们的世界》】</td>
-<td><a href="https://github.com/j168/j688/blob/master/epub/Mgrw(1-19).epub">图文、视频</a></td>
+<td><a href="https://github.com/j168/j688/blob/master/epub/Mgrw(1-19).epub?raw=true">图文、视频</a></td>
 </tr>
 	
 <tr>
