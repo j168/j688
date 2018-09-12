@@ -1,4 +1,6 @@
 
+<div align="center"><img src="https://github.com/j168/j688/blob/master/menu/20180912st.jpg" width="580" ></div>
+
 <h1  align="center">伪火十六载　今朝丑戏完</h1>
 
  </br>
