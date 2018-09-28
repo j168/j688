@@ -2,7 +2,7 @@
 
 
 
-<div align="center"><img src="https://github.com/j168/j688/blob/master/menu/20180923st.jpg" width="780" ></div>
+<div align="center"><img src="https://github.com/j168/j688/blob/master/menu/2018-0928.jpg" width="780" ></div>
 
 <br><br>
 <div align="center"><td><a href="https://github.com/j168/j688/blob/master/sof.md"><img src="https://github.com/j168/j688/blob/master/menu/20180606fu.jpg" width="600"  border="0" alt=""></a></td></div>
