@@ -7,12 +7,11 @@
 
 <div align="center"><a href="http://36.227.98.164"><img src="https://github.com/j168/j688/blob/master/menu/20181011st.jpg" width="800"></a></div>
 <div align="center"><img src="https://github.com/j168/j688/blob/master/menu/2018-0729sy.jpg" width="700" ></div>
- <hr>
-  
+ <hr> <br>
+ 
  　　　　　　　　　　　　　　　　　　　✪✪ **下载免费翻墙软件，方便又快速** ✪✪
 <body>
-	 <div align="center">
-     <table border="0" width="200%" align=center" bordercolor="gold">
+<div align="center"><table border="0" width="200%" align=center" bordercolor="gold">
   <tr>
 	<td></td>
 	<td>安卓版</td>
