@@ -45,7 +45,8 @@
 
 
 <hr>
- <div align="center"><h1>铁证如山<br><p><hr></div>
+<div align="center"><img src="https://github.com/j168/j688/blob/master/menu/2018-10-11notall.jpg" width="700" ></div>
+ <div align="center"><h1>铁证如山<p><hr></div>
 	★一位法轮功学员经历的器官活摘体检的证词 <p>	
 	★黄洁夫和王海波参与活摘法轮功学员器官的证据<p>	
 	★《活摘 - 十年调查》（视频)<p>
