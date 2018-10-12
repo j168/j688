@@ -25,7 +25,7 @@
 
 ******
 
-## <a href="https://github.com/j168/j688/blob/master/epub/9ping.epub?raw=true">共产主义来自何处？</a>
+## <a href="https://github.com/j168/j688/blob/master/epub/jpgcdm4a5k.epub?raw=true">共产主义来自何处？</a>
 ## 为什么宇宙中会冒出个共产党？
 ## 共产主义的本质究竟是什么？
 ## 结局又会怎样？
