@@ -5,7 +5,7 @@
 <tr>
 	
 
-<div align="center"><a href="http://36.227.98.164"><img src="https://github.com/j168/j688/blob/master/menu/20181011st.jpg" width="800"></a></div>
+<div align="center"><a href="http://61.228.117.11"><img src="https://github.com/j168/j688/blob/master/menu/20181015st.jpg" width="800"></a></div>
 <div align="center"><img src="https://github.com/j168/j688/blob/master/menu/2018-0729sy.jpg" width="700" ></div>
  <hr> <br>
  
