@@ -8,7 +8,6 @@
 <br><br>
 <div align="center"><td><a href="https://github.com/j168/j688/blob/master/sof.md"><img src="https://github.com/j168/j688/blob/master/menu/20180606fu.jpg" width="600"  border="0" alt=""></a></td></div>
 
-
 <br><br>
 <div align="center"><td><a href="https://github.com/bcdz/true01/blob/master/bbfa.md"><img src="https://github.com/j168/j688/blob/master/menu/2018-1019zas.jpg" width="600"  border="0" alt=""></a></td></div>
 
