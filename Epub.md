@@ -5,11 +5,22 @@
 
 <div align="center"><img src="https://github.com/j168/j688/blob/master/menu/20181019st.jpg" width="850" ></div>
 
+
 <br><br>
 <div align="center"><td><a href="https://github.com/j168/j688/blob/master/sof.md"><img src="https://github.com/j168/j688/blob/master/menu/20180606fu.jpg" width="600"  border="0" alt=""></a></td></div>
+
+
+<br>
+
+<div align="center"><td><a href="https://github.com/bcdz/true01/blob/master/bbfa.md"><img src="https://github.com/j168/j688/blob/master/menu/2018-1019zas.jpg" width="600"  border="0" alt=""></a></td></div>
+
+<br><br>
+<div align="center"><img src="https://github.com/j168/j688/blob/master/menu/20181019tree.jpg" width="850" ></div>
+
+
 <br>
 <div align="center"><h1>手机上好看的电子书 (ePub版) ↓↓ </h1></div> 
-   
+  
 
 
  【明慧网二零一六年七月二十八日】根据明慧网2009年3月26日刊载的中文chm格式的《九评共产党》制作成ePub格式的电子书。 下载链接为：下载链接为：<a href="https://github.com/j168/j688/blob/master/epub/jpgcdm4a5k.epub?raw=true" target="_blank">《九评共产党》ePub格式的电子书</a><p></p>
