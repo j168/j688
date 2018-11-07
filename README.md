@@ -6,7 +6,7 @@
 	
 
 <div align="center"><a href="http://61.228.117.11"><img src="https://github.com/j168/j688/blob/master/menu/20181103st.jpg" width="800"></a></div>
-<div align="center"><img src="https://github.com/j168/j688/blob/master/menu/2018-1030st.jpg" width="880" ></div>
+<div align="center"><img src="https://github.com/j168/j688/blob/master/menu/20181107tl.jpg" width="880" ></div>
  <hr> <br>
  
  　　　　　　　　　　　　　　　　　　　✪✪ **下载免费翻墙软件，方便又快速** ✪✪
