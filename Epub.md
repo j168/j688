@@ -84,7 +84,7 @@
 直接下载Windows版：<a href="storage.googleapis.com/windows_updates/setup_1_1_1006.exe" target="_blank">storage.googleapis.com/windows_updates/setup_1_1_1006.exe</a><br><br>
 
 
-<div align="center"><h1>其他必看电子书</h1></div>
+<div align="center"><h1>其他必看电子书免费下载</h1></div>
 
 <table  cellspacing="1" cellpadding="1">
 <tr  width="880">
