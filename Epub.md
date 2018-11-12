@@ -129,6 +129,21 @@
 	<td><a href="https://github.com/j168/j688/blob/master/epub/fangqian.epub?raw=true">圖文、視頻</a></td>
 </tr>
 
+ <tr>
+	<td>【 中共活体摘取法轮功学员器官br群体灭绝性大屠杀 】</td>
+	<td><a href="https://github.com/j168/j688/blob/master/epub/flg23.epub?raw=true">图文、视频、音频、下载(epub)</a></td>
+</tr>
+
+ <tr>
+	<td>【 见证中国活摘器官是真实 】</td>
+	<td><a href="https://github.com/j168/j688/blob/master/epub/fdfd23.epub?raw=true">图文、视频、音频、下载(epub)</a></td>
+</tr>
+
+ <tr>
+	<td>【 【 武汉数十名大学生神秘「蒸发」】</td>
+	<td><a href="https://github.com/j168/j688/blob/master/epub/jco12.epub?raw=true">图文、视频、音频、下载(epub)</a></td>
+</tr>
+
 <tr>
 	<td>【江泽民其人】</td>
 	<td><a href="https://github.com/j168/j688/blob/master/epub/jzmqr-pic-2.0-20161021.epub?raw=true">圖文、視頻</a></td>
