@@ -2,6 +2,8 @@
 
  
 <div align="center"><a href="http://111.241.88.207/sy"><img src="https://github.com/j168/j688/blob/master/menu/20181119st.jpg" width="880">
+  <div align="center">
+<IMG SRC="https://github.com/j168/j688/blob/master/menu/2018-11-19_230558.jpg" width=880></a><br></div>
   
  <div align="center"><h1>感恩节期间，新唐人电视台将独家播出“神韵艺术团交响乐团2016年音乐会”。 (新唐人网站)</h1>
 <div align="left"><h3>
