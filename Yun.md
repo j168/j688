@@ -1,7 +1,7 @@
 
 
  
-<div align="center"><a href="http://111.241.88.207/sy"><img src="https://github.com/j168/j688/blob/master/menu/20181122st.jpg" width="880">
+<div align="center"><a href="http://36.227.98.168/sy"><img src="https://github.com/j168/j688/blob/master/menu/20181130st.jpg" width="880">
   <div align="center">
 <IMG SRC="https://github.com/j168/j688/blob/master/menu/2018-11-19_230558.jpg" width=880></a><br></div>
   
