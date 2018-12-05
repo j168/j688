@@ -43,7 +43,7 @@
 <tr>
 	<td><a href="https://github.com/j168/j688/blob/master/fq/um.apk?raw=true"><img src="https://github.com/j168/j688/blob/master/menu/wu1.jpg" align="middle" width="300" alt="wu1"></a></td>
 	<td><a href="https://github.com/j168/j688/blob/master/fq/Green_iPPOTV_n.exe?raw=true"><img src="https://github.com/j168/j688/blob/master/menu/ip.jpg" align="middle" width="300" alt="ip"></a></td><p>
-	<td><a href="https://github.com/gofun72/telove/blob/master/soft/Green_iPPOTV.exe?raw=true"><img src="https://github.com/j168/j688/blob/master/menu/ip-1v.jpg" align="middle" width="300" alt="ip-1v"></a></td>	
+	<td><a href="https://github.com/j168/j688/blob/master/fq/iPPONews.exe?raw=true"><img src="https://github.com/j168/j688/blob/master/menu/ip-1v.jpg" align="middle" width="300" alt="ip-1v"></a></td>	
 	</tr><p>
 
 </table>
