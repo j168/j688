@@ -28,8 +28,8 @@
 <td><a href="https://github.com/j168/j688/blob/master/fq/zi_you_men_7.64_(0109)_desktop.zip?raw=true"><img src="https://github.com/j168/j688/blob/master/menu/fj.jpg" align="middle" width="300" alt="fj"></a> </td>
 
 <tr>
-	<td><a href="https://github.com/j168/j688/blob/master/fq/iNTD_TV.apk?raw=true"><img src="https://github.com/j168/j688/blob/master/menu/intd.jpg" align="middle" width="300" alt="intdtv"></td>
-	<td><a href="https://github.com/j168/j688/blob/master/fq/iNTD_TVsp1.apk?raw=true"><img src="https://github.com/j168/j688/blob/master/menu/intd-s.jpg" align="middle" width="300"  alt="intdtvsp1"></a></td>
+	<td><a href="https://github.com/j168/j688/blob/master/fq/iNTD_TV-.apk?raw=true"><img src="https://github.com/j168/j688/blob/master/menu/intd.jpg" align="middle" width="300" alt="intdtv"></td>
+	<td><a href="https://github.com/j168/j688/blob/master/fq/iNTD_TVsp1-.apk?raw=true"><img src="https://github.com/j168/j688/blob/master/menu/intd-s.jpg" align="middle" width="300"  alt="intdtvsp1"></a></td>
 
 	
 </tr>
@@ -42,7 +42,7 @@
 </tr>
 <tr>
 	<td><a href="https://github.com/j168/j688/blob/master/fq/um.apk?raw=true"><img src="https://github.com/j168/j688/blob/master/menu/wu1.jpg" align="middle" width="300" alt="wu1"></a></td>
-	<td><a href="https://github.com/j168/j688/blob/master/fq/Green_iPPOTV.exe?raw=true"><img src="https://github.com/j168/j688/blob/master/menu/ip.jpg" align="middle" width="300" alt="ip"></a></td><p>
+	<td><a href="https://github.com/j168/j688/blob/master/fq/Green_iPPOTV_n.exe?raw=true"><img src="https://github.com/j168/j688/blob/master/menu/ip.jpg" align="middle" width="300" alt="ip"></a></td><p>
 	<td><a href="https://github.com/gofun72/telove/blob/master/soft/Green_iPPOTV.exe?raw=true"><img src="https://github.com/j168/j688/blob/master/menu/ip-1v.jpg" align="middle" width="300" alt="ip-1v"></a></td>	
 	</tr><p>
 
