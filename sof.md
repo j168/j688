@@ -36,9 +36,9 @@
 	
 </tr>
 <tr>
-<td><a href="https://github.com/j168/j688/blob/master/fq/u1704.zip?raw=true"><img src="https://github.com/j168/j688/blob/master/menu/wu.jpg" align="middle" width="300" alt="wu"></td>
-<td><a href="https://github.com/j168/j688/blob/master/fq/um.apk?raw=true"><img src="https://github.com/j168/j688/blob/master/menu/wa-.jpg" align="middle" width="300" alt="wa-"></a></td>
-<td><a href="https://github.com/j168/j688/blob/master/fq/u1704.zip?raw=true"><img src="https://github.com/j168/j688/blob/master/menu/wj-.jpg" align="middle" width="300" alt="wj-"></a></td>	
+<td><a href="https://github.com/j168/j688/blob/master/fq/18.06u.exe?raw=true"><img src="https://github.com/j168/j688/blob/master/menu/wu.jpg" align="middle" width="300" alt="wu"></td>
+<td><a href="https://github.com/j168/j688/blob/master/fq/um4.5.apk?raw=true"><img src="https://github.com/j168/j688/blob/master/menu/wa-.jpg" align="middle" width="300" alt="安卓"></a></td>
+<td><a href="https://github.com/j168/j688/blob/master/fq/18.06u.exe?raw=true"><img src="https://github.com/j168/j688/blob/master/menu/wj-.jpg" align="middle" width="300" alt="wj-"></a></td>	
 </tr>
 <tr>
 	<td><a href="https://github.com/j168/j688/blob/master/fq/um.apk?raw=true"><img src="https://github.com/j168/j688/blob/master/menu/wu1.jpg" align="middle" width="300" alt="wu1"></a></td>
