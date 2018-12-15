@@ -2,7 +2,7 @@
 <tr>
 	<td colspan=3>
 
-<div align="center"><a href="http://220.141.118.167"><img src="https://github.com/j168/j688/blob/master/menu/20181208st.jpg" width="800"></a></div>
+<div align="center"><a href="http://111.241.94.69"><img src="https://github.com/j168/j688/blob/master/menu/20181215st.jpg" width="800"></a></div>
 
 
 <br/>
