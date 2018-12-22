@@ -1,4 +1,4 @@
- 
+ <div align="center"><a href="http://git.io/she"><img src="https://github.com/j168/j688/blob/master/menu/2018-1221syp1.jpg" width="800"></a></div>
 
 
 <table>
