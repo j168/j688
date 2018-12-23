@@ -27,8 +27,7 @@
    
   <h3><a href="http://zh-tw.shenyun.com/">海外观众如要观看最新的〝2019年神韵晚会″，请到当地剧院买票观看，演出行程可以查询：www.shenyun.com</a></h3>
   
-   <h2 a align="center"><a href="https://github.com/j168/j688/blob/master/epub/gala%2020181.epub?raw=true"> ★★神韵晚会台湾演出场次表电子书下载(ePub版)★★</h2>
-
+  
  <div align="center"><h1><a href="http://www.ntdtv.com/xtr/gb/tv_ch1china.html">大陆频道播放时间如下:</a></h1></div>
    	<p></P>
 	
@@ -41,19 +40,29 @@
 	<td width=440;>备注</td>
 </tr>
 <tr>
-	<td> 2018-11/22 感恩节</td>
+	<td> 2018/12/24 圣诞</td>
 	<td>20:00</td>
-	<td>神韵交响乐团</td>
+	<td>神韵交响乐团-首播</td>
 </tr>
 <tr>
-	<td>2018-11/23</td>
-	<td>10:30</td>
-	<td>神韵交响乐团</td>
-</tr>
-<tr>
-	<td>2018-11/25</td>
+	<td>2018/12/25</td>
 	<td>10:00</td>
-	<td>神韵交响乐团</td>
+	<td>神韵交响乐团-重播</td>
+</tr>
+<tr>
+	<td>2018/12/25</td>
+	<td>17:00</td>
+	<td>神韵交响乐团-重播</td>
+</tr>
+<tr>
+	<td>201812/31 新年</td>
+	<td>13:00</td>
+	<td>神韵交响乐团-首播</td>
+	</tr>
+<tr>
+	<td>201812/31</td>
+	<td>20:30</td>
+	<td>神韵交响乐团-重播</td>
 	</tr>
 	
 </table> <p></P>
