@@ -1,7 +1,7 @@
 
 
  
-<div align="center"><a href="http://61.228.117.125/sy"><img src="https://github.com/j168/j688/blob/master/menu/2018-1221sy.jpg" width="880">
+<div align="center"><a href="http://220.141.121.202/sy"><img src="https://github.com/j168/j688/blob/master/menu/2018-1221sy.jpg" width="880">
   <div align="center">
 <div align="center"><a href="http://111.241.94.74/mp4/news668/2016/02/syMusic480.mp4"><img src="https://github.com/j168/j688/blob/master/menu/2018-11-30_sy-music.jpg" width="880">
   
