@@ -1,20 +1,11 @@
 
 
-<div align="center"><a href="http://git.io/she"><img src="https://github.com/j168/j688/blob/master/menu/2018-1221syp1.jpg" width="890"></a></div>
-<div align="center">      <h2>    
-     2018/12/24 星期一 	20:00 首播<br>	
-     2018/12/25 星期二     10:00 重播<br>
-     2018/12/25 星期二	17:00 重播<br>
-     2018/12/31 星期一	13:00 首播<br>	
-      2018/12/31星期一     20:30 重播 <br>	
-   </h2> </div>
-
 <br>
 <table>
 <tr>
 	<td colspan=3>
 
-<div align="center"><a href="http://220.141.121.202"><img src="https://github.com/j168/j688/blob/master/menu/20181227st.jpg" width="800"></a></div>
+<div align="center"><a href="http://61.228.116.228"><img src="https://github.com/j168/j688/blob/master/menu/20190101st.jpg" width="800"></a></div>
 
 
 <br/>
