@@ -4,11 +4,13 @@
 <tr>
 	
 
-<div align="center"><a href="http://220.141.134.181"><img src="https://github.com/j168/j688/blob/master/menu/20190104st.jpg" width="800"></a></div>
+<div align="center"><a href="http://220.141.134.181"><img src="https://github.com/j168/j688/blob/master/menu/20190104st.jpg" width="800"></a></div><p>
+<br>
 <div align="center"><a href="https://github.com/dfchunsring/nini/blob/master/perhi.md?5utr9rg6fde#12"><img src="https://github.com/j168/j688/blob/master/menu/2019-01-04god.jpg" width="800" ></div>
  <hr> <br>
  
  　　　　　　　　　　　　　　　　　　　✪✪ **下载免费翻墙软件，方便又快速** ✪✪
+
 <body>
 <div align="center"><table border="0" width="200%" align=center" bordercolor="gold">
   <tr>
