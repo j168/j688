@@ -5,7 +5,7 @@
 <tr>
 	<td colspan=3>
 
-<div align="center"><a href="http://220.141.127.117"><img src="https://github.com/j168/j688/blob/master/menu/20190107st.jpg" width="800"></a></div>
+<div align="center"><a href="http://220.141.135.53"><img src="https://github.com/j168/j688/blob/master/menu/20190109st.jpg" width="800"></a></div>
 
 
 <br/>
