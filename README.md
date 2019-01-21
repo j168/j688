@@ -4,7 +4,7 @@
 <tr>
 	
 
-<div align="center"><a href="http://36.227.100.96"><img src="https://github.com/j168/j688/blob/master/menu/20190117st.jpg" width="800"></a></div><p>
+<div align="center"><a href="http://220.141.131.76"><img src="https://github.com/j168/j688/blob/master/menu/20190121st.jpg" width="800"></a></div><p>
 <br>
 <div align="center"><a href="https://github.com/dfchunsring/nini/blob/master/perhi.md?5utr9rg6fde#12"><img src="https://github.com/j168/j688/blob/master/menu/2019-01-04god.jpg" width="800" ></div>
  <hr> <br>
