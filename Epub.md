@@ -6,7 +6,8 @@
 
 <hr>
 
-<div align="center"><img src="https://github.com/j168/j688/blob/master/img/ntddtv-2019-3.jpg" width="850" ></div>
+<div align="center"><a href="http://sy.epub.vin/sy"><img src="https://github.com/j168/j688/blob/master/img/ntddtv-2019-3.jpg" width="800" ></div>
+ <div align="center"><h2><a href="http://git.io/sss">【预告】新唐人中国新年期间独家播出</h2></a></div>
 
 <div align="center"><img src="https://github.com/j168/j688/blob/master/menu/20190129st.jpg" width="850" ></div>
 
