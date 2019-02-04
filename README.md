@@ -2,7 +2,11 @@
 <br>
 <table>
 <tr>
-	
+
+<div align="center"><a href="http://sy.epub.vin/sy"><img src="https://github.com/j168/j688/blob/master/img/ntdtv2019-1.jpg" width="750" ></div>
+ <div align="center"><h2><a href="http://git.io/sss">【预告】新唐人中国新年期间独家播出</h2></a></div>
+<hr>
+
 
 <div align="center"><a href="http://111.241.88.75"><img src="https://github.com/j168/j688/blob/master/menu/20190129st.jpg" width="800"></a></div><p>
 <br>
