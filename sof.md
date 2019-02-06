@@ -9,7 +9,7 @@
 		请大家告诉大家，错过可能得等一年！</h3>
 <hr>
 <table align="center" >
-<div align="center"><img src="https://github.com/j168/j688/blob/master/menu/20190129st.jpg" width="850" hight="30"></div>
+<div align="center"><img src="https://github.com/j168/j688/blob/master/menu/20190206st.jpg" width="850" hight="30"></div>
 
 
 ＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
