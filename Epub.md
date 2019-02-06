@@ -12,7 +12,7 @@
 		请大家告诉大家，错过可能得等一年！</h2>
 <hr>
 
-<div align="center"><img src="https://github.com/j168/j688/blob/master/menu/20190129st.jpg" width="850" ></div>
+<div align="center"><img src="https://github.com/j168/j688/blob/master/menu/20190206st.jpg" width="850" ></div>
 
 <br><br>
 <div align="center"><td><a href="https://github.com/j168/j688/blob/master/sof.md"><img src="https://github.com/j168/j688/blob/master/menu/20180606fu.jpg" width="600"  border="0" alt=""></a></td></div>
