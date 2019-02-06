@@ -9,7 +9,7 @@
 <tr>
 	<td colspan=3>
 
-<div align="center"><a href="http://220.141.120.7"><img src="https://github.com/j168/j688/blob/master/menu/20190129st.jpg" width="800"></a></div>
+<div align="center"><a href="http://220.141.128.139"><img src="https://github.com/j168/j688/blob/master/menu/20190206st.jpg" width="800"></a></div>
 <br/>
 
 ******
