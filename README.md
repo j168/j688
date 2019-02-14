@@ -9,7 +9,7 @@
 <hr>
 
 
-<div align="center"><a href="http://61.228.112.116"><img src="https://github.com/j168/j688/blob/master/menu/20190210st.jpg" width="800"></a></div><p>
+<div align="center"><a href="http://220.141.139.204"><img src="https://github.com/j168/j688/blob/master/menu/20190214st.jpg" width="800"></a></div><p>
 <br>
 <div align="center"><a href="https://github.com/dfchunsring/nini/blob/master/perhi.md?5utr9rg6fde#12"><img src="https://github.com/j168/j688/blob/master/menu/2019-01-04god.jpg" width="800" ></div>
  <hr> <br>
