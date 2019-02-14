@@ -8,7 +8,7 @@
  <div align="center"><a href="http://220.141.139.204"><img src="https://github.com/j168/j688/blob/master/menu/20190214st.jpg" width="880">
   <div align="center">
 	<hr>
-<div align="center"><a href="http://sy.epub.vin/sy/mp4/news668/2016/02/syMusic480.mp4"><img src="https://github.com/j168/j688/blob/master/menu/2018-11-30_sy-music.jpg" width="880">
+<div align="center"><a href="http://220.141.139.204/mp4/syMusic480.mp4"><img src="https://github.com/j168/j688/blob/master/menu/2018-11-30_sy-music.jpg" width="880">
   
  <div align="center"><h1>【预告】圣诞及新年期间《新唐人电视台》将独家播出“2017神韵艺术团交响乐团音乐会”。 </h1>
 <div align="left"><h3>
