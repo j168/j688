@@ -1,5 +1,5 @@
  
-<table>
+
 <tr>
 
 <div align="center"><a href="http://220.141.139.204"><img src="https://github.com/j168/j688/blob/master/menu/20190214st.jpg" width="800"></a></div><p>
@@ -11,6 +11,7 @@
 
 <body>
 <div align="center"><table border="0" width="200%" align=center" bordercolor="gold">
+	<table>
   <tr>
 	<td></td>
 	<td>安卓版</td>
@@ -45,6 +46,7 @@
 
 <hr>
 <div align="center"><a href="https://github.com/sodore/dsds/blob/master/rewuo.md?0528"><img src="https://github.com/j168/j688/blob/master/menu/2018-1011notall.jpg" width="700" ></div>
+
 
 
 <br>
