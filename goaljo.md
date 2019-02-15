@@ -1,4 +1,10 @@
 
+<div align="center"><a href="http://sy.epub.vin/sy"><img src="https://github.com/j168/j688/blob/master/menu/2019-02-15%E8%B1%AC%E6%85%B6%E5%85%83%E5%AE%B5.jpg" width="650" ></div>
+ <div align="center"><h2><a href="http://git.io/sss">【预告】新唐人中国新年期间独家播出</h2></a></div>
+	<h3>翻墙软件:无界.自由门.桌机版在计算机上能看(建议在安装flash才行) ; 爱博是只能安装在桌几上看! 请大家留意此 (建议下载爱博电视 就可直接看了 也可以透过卫星韩星5A号) !
+		请大家告诉大家，错过可能得等一年！</h3>
+<hr>
+
 <div align="center"><a href="http://220.141.139.204"><img src="https://github.com/j168/j688/blob/master/menu/20190214st.jpg" width="800"></a></div>
 <br/>
 
