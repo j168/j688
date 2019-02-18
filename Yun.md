@@ -1,14 +1,14 @@
 
-<div align="center"><a href="http://sy.epub.vin/sy"><img src="https://github.com/j168/j688/blob/master/menu/2019-0215Lantem.jpg" width="500" ></div>
+<div align="center"><a href="http://9sy.epub.vin/sy"><img src="https://github.com/j168/j688/blob/master/menu/2019-02183.jpg" width="500" ></div>
  <div align="center"><h2><a href="http://git.io/sss">【预告】新唐人中国新年期间独家播出</h2></a></div>
 	<h3>翻墙软件.无界.自由门.桌机版.在计算机上能看， 爱博是只能安装在桌几上看! 请大家留意此 !
 		请大家告诉大家，错过可能得等一年！</h3>
 	
 <hr><hr>
- <div align="center"><a href="http://220.141.139.204"><img src="https://github.com/j168/j688/blob/master/menu/20190214st.jpg" width="880">
+ <div align="center"><a href="http://111.241.93.196"><img src="https://github.com/j168/j688/blob/master/menu/20190218st.jpg" width="880">
   <div align="center">
 	<hr>
-<div align="center"><a href="http://220.141.139.204/mp4/syMusic480.mp4"><img src="https://github.com/j168/j688/blob/master/menu/2018-11-30_sy-music.jpg" width="880">
+<div align="center"><a href="http://111.241.93.196/mp4/syMusic480.mp4"><img src="https://github.com/j168/j688/blob/master/menu/2018-11-30_sy-music.jpg" width="880">
   
  <div align="center"><h1>【预告】新 唐 人元宵节将播神韵晚会及音乐会。 </h1>
 <div align="left"><h3>
