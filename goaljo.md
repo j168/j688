@@ -5,7 +5,7 @@
 		请大家告诉大家，错过可能得等一年！</h3>
 <hr>
 
-<div align="center"><a href="http://220.141.139.204"><img src="https://github.com/j168/j688/blob/master/menu/20190214st.jpg" width="800"></a></div>
+<div align="center"><a href="http://111.241.93.196"><img src="https://github.com/j168/j688/blob/master/menu/20190218st.jpg" width="800"></a></div>
 <br/>
 
 ******
