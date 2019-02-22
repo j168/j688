@@ -12,7 +12,7 @@
 
 <hr>
 <table align="center" >
-<div align="center"><img src="https://github.com/j168/j688/blob/master/menu/20190218st.jpg" width="850" hight="30"></div>
+<div align="center"><img src="https://github.com/j168/j688/blob/master/menu/20190222st.jpg" width="850" hight="30"></div>
 
 
 ＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
