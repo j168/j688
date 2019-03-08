@@ -12,7 +12,6 @@
 	
   <tr>
 	<td width=250;></td>
-	<td></td>
 	<td width=250;>安卓版</td>
 	<td width=250;>桌机版</td>
   </tr>
