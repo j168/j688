@@ -1,9 +1,8 @@
  
-<div align="center"><a href="http://220.141.133.2"><img src="https://github.com/j168/j688/blob/master/menu/20190222st.jpg" width="800"></a></div><p>
+
+<div align="center"><a href="http://118.161.48.33"><img src="https://github.com/j168/j688/blob/master/menu/20190308st.jpg" width="800"></a></div><p>
 <br>
-<div align="center"><a href="https://github.com/dfchunsring/nini/blob/master/perhi.md?5utr9rg6fde#12"><img src="https://github.com/j168/j688/blob/master/menu/2019-01-04god.jpg" width="800" ></a></div>
  <hr>
-	
  
  
  　　　　　　　　　　　　　　　　　　　✪✪ **下载免费翻墙软件，方便又快速** ✪✪
