@@ -23,7 +23,7 @@
 </tr>
 <tr>
 	<td>无界</td>
-	<td><a href="https://github.com/j168/j688/blob/master/fq/um4.2.apk?raw=true">4.2</a></td>
+	<td><a href="https://github.com/j168/j688/blob/master/fq/um4.6.apk?raw=true">4.6</a></td>
 	<td><a href="https://github.com/j168/j688/blob/master/fq/u19.02.exe?raw=true">19.02</a></a></td>
 </tr>
 <tr>
