@@ -11,6 +11,7 @@
 <div align="center"><table border="0" width="200%" align=center" bordercolor="gold">
 	
   <tr>
+	<div align="center">
 	<td></td>
 	<td>安卓版</td>
 	<td>桌机版</td>
