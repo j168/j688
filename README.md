@@ -60,7 +60,8 @@
 
  <h2>中共大量活摘法轮功学员器官国家犯罪罪证讲座 <p>
      2017年12月10日             
-<td>
+
+<td><br>
 		<a href="https://vimeo.com/246679660"><img src="https://github.com/j168/j688/blob/master/img/2018-01-29_173701.jpg"                        width="500" hight="25"></a>	
 	</td>	<tr>
 
@@ -125,6 +126,8 @@
 Vimeo：https://vimeo.com/246679660
 
 YouTube：https://youtu.be/Bmg0zVkbvec 
+
+<h3 align=center><a href="https://www.zhuichaguoji.org/node/81845">详情更多调查录音请翻墙访问：《追查国际对中共大量活摘法轮功学员器官国家犯罪的调查报告》</h3>
 <br>
 <hr>
 
