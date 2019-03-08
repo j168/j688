@@ -43,7 +43,8 @@
 
 
 <hr>
-<div align="center"><a href="https://github.com/sodore/dsds/blob/master/rewuo.md?0528"><img src="https://github.com/j168/j688/blob/master/menu/2018-1011notall.jpg" width="700" ></div>
+<div align="center"><a href="https://github.com/sodore/dsds/blob/master/rewuo.md?0528"><img src="https://github.com/j168/j688/blob/master/menu/2018-1011notall.jpg" width="700" >
+	</div>
 
 
 
