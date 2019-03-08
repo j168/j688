@@ -7,9 +7,9 @@
  
  　　　　　　　　　　　　　　　　　　　✪✪ **下载免费翻墙软件，方便又快速** ✪✪
 
-
+<table>
 <div align="center"><table border="0" width="200%" align=center" bordercolor="gold">
-	<table>
+	
   <tr>
 	<td></td>
 	<td>安卓版</td>
