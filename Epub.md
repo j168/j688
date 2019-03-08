@@ -6,15 +6,10 @@
 
 <hr>
 
-<div align="center"><a href="http://9jo.epub.vin/sy"><img src="https://github.com/j168/j688/blob/master/menu/2019-02183.jpg" width="500" ></div>
- <div align="center"><h2><a href="http://git.io/sss">【预告】新唐人中国新年期间独家播出</h2></a></div>
-	<h2>翻墙软件.无界.自由门.桌机版.在计算机上能看; 爱博是只能安装在桌几上看! 请大家留意此 (建议下载爱博电视 就可直接看了 也可以透过卫星韩星5A号)!
-		请大家告诉大家，错过可能得等一年！</h2>
+<div align="center"><a href="http://118.161.48.33"><img src="https://github.com/j168/j688/blob/master/menu/20190308st.jpg" width="850" ></div>
+ 
 <hr>
 
-<div align="center"><img src="https://github.com/j168/j688/blob/master/menu/20190222st.jpg" width="850" ></div>
-
-<br><br>
 <div align="center"><td><a href="https://github.com/j168/j688/blob/master/sof.md"><img src="https://github.com/j168/j688/blob/master/menu/20180606fu.jpg" width="600"  border="0" alt=""></a></td></div>
 
 <br><br>
