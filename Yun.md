@@ -1,7 +1,7 @@
 
 	
 <hr><hr>
- <div align="center"><a href="http://114.37.72.118"><img src="https://github.com/j168/j688/blob/master/menu/20190317st.jpg" width="880">
+ <div align="center"><a href="http://114.37.16.63><img src="https://github.com/j168/j688/blob/master/menu/20190320st.jpg" width="880">
   <div align="center">
 	<hr>
 <div align="center"><a href="http://114.37.27.200/mp4/syMusic480.mp4"><img src="https://github.com/j168/j688/blob/master/menu/2018-11-30_sy-music.jpg" width="880">
