@@ -1,6 +1,4 @@
 
-	
-<hr><hr>
  <div align="center"><a href="http://114.37.70.80><img src="https://github.com/j168/j688/blob/master/menu/20190329st.jpg" width="880">
   <div align="center">
 	<hr>
