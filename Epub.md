@@ -6,7 +6,7 @@
 
 <hr>
 
-<div align="center"><a href="http://114.37.17.145"><img src="https://github.com/j168/j688/blob/master/menu/20190402st.jpg" width="850" ></div>
+<div align="center"><a href="http://111.240.72.115"><img src="https://github.com/j168/j688/blob/master/menu/20190405st.jpg" width="850" ></div>
  
 <hr>
 
