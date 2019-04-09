@@ -117,5 +117,7 @@
 -------------------------------------------------------
 ******
 
+<a href="https://git.io/ssbbaaa"><img src="https://github.com/j168/j688/blob/master/menu/2019-04-09_f.jpg" width="780">
+
 
 <div align="center"><img src="https://github.com/j168/j688/blob/master/menu/20180912st.jpg" width="580" ></div>
