@@ -43,8 +43,8 @@
 <div align="center"><a href="https://github.com/j168/j688/blob/master/Epub.md"><img src="https://github.com/j168/j688/blob/master/menu/2018-01-29_e_m.jpg"
 ![](https://github.com/j168/j688/blob/master/menu/2018-01-29_e_m.jpg) <p></a>  </div>
 
-<hr>*
-<a href="https://git.io/ssbbaaa"><img src="https://github.com/j168/j688/blob/master/menu/2019-04-09_f.jpg" width="780">
+<hr>
+<div align="center"><a href="https://git.io/ssbbaaa"><img src="https://github.com/j168/j688/blob/master/menu/2019-04-09_f.jpg" width="780"></div>
 <hr>
 <div align="center"><a href="https://github.com/sodore/dsds/blob/master/rewuo.md?0528"><img src="https://github.com/j168/j688/blob/master/menu/2018-1011notall.jpg" width="700" >
 	</div>
