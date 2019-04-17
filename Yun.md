@@ -1,8 +1,8 @@
 
- <div align="center"><a href="http://118.161.251.139><img src="https://github.com/j168/j688/blob/master/menu/20190414st.jpg" width="880">
+ <div align="center"><a href="http://114.43.34.79><img src="https://github.com/j168/j688/blob/master/menu/20190414st.jpg" width="880">
   <div align="center">
 	<hr>
-<div align="center"><a href="http://114.37.24.246/mp4/syMusic480.mp4"><img src="https://github.com/j168/j688/blob/master/menu/2018-11-30_sy-music.jpg" width="880">
+<div align="center"><a href="http://114.43.34.79/mp4/syMusic480.mp4"><img src="https://github.com/j168/j688/blob/master/menu/2018-11-30_sy-music.jpg" width="880">
   
  <div align="center"><h1>【预告】新 唐 人元宵节将播神韵晚会及音乐会。 </h1>
 <div align="left"><h3>
