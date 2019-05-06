@@ -1,8 +1,8 @@
  
 
-<div align="center"><a href="https://git.io/ykykyk"><img src="https://github.com/j168/j688/blob/master/menu/20190429st.jpg" width="850"></a></div><p>
+<div align="center"><a href="https://114.37.68.227"><img src="https://github.com/j168/j688/blob/master/menu/20190506st.jpg" width="850"></a></div><p>
 <br>
- <div align="center"><a href="http://118.161.50.218"><img src="https://github.com/j168/j688/blob/master/menu/2019-04-17_zf1.jpg" width="800"></a></div><p>
+ <div align="center"><a href="http://114.37.68.227/BNHH/"><img src="https://github.com/j168/j688/blob/master/menu/2019-04-17_zf1.jpg" width="800"></a></div><p>
  <hr>
  
  
