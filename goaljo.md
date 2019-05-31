@@ -2,7 +2,7 @@
 
 <hr>
 
-<div align="center"><a href="http://114.43.45.31/"><img src="https://github.com/j168/j688/blob/master/menu/20190530st.jpg" width="800"></a></div>
+<div align="center"><a href="http://118.161.140.97/"><img src="https://github.com/j168/j688/blob/master/menu/20190531st-.jpg" width="800"></a></div>
 <br/>
 
 
