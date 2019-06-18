@@ -1,6 +1,6 @@
  
 
-<div align="center"><a href="http://118.161.138.80"><img src="https://github.com/j168/j688/blob/master/menu/20190613tl.jpg" width="850"></a></div><p>
+<div align="center"><a href="http://114.43.35.116"><img src="https://github.com/j168/j688/blob/master/menu/20190618st.jpg" width="850"></a></div><p>
 <br>
  <div align="center"><a href="https://github.com/j168/j688/blob/master/menu/video_720ps%20(1).mp4?raw=true/"><img src="https://github.com/j168/j688/blob/master/menu/2019-04-17_zf1.jpg" width="800"></a></div><p>
  <hr>
@@ -23,7 +23,7 @@
 	<td>自由门</td>
 	<td><a href="https://github.com/j168/j688/blob/master/fq/zi_you_men_android_3.2%20(1).zip?raw=true">3.2版</a></a>
   </td>
-	<td><a href="https://github.com/j168/j688/blob/master/fq/zi_you_men_7.64_(0109)_desktop.zip?raw=true">7.6版</a></a></td>
+	<td><a href="https://github.com/j168/j688/blob/master/fq/fg768p.exe?raw=true">7.68p版</a></a></td>
 </tr>
 <tr>
 	<td>无界</td>
