@@ -1,10 +1,12 @@
  
 
-<div align="center"><a href="http://114.43.35.116"><img src="https://github.com/j168/j688/blob/master/menu/20190618st.jpg" width="850"></a></div><p>
+<div align="center"><a href="http://114.43.35.116"><img src="https://github.com/j168/j688/blob/master/menu/20190618st.jpg" width="800"></a></div><p>
 <br>
  <div align="center"><a href="https://github.com/j168/j688/blob/master/menu/video_720ps%20(1).mp4?raw=true/"><img src="https://github.com/j168/j688/blob/master/menu/2019-04-17_zf1.jpg" width="800"></a></div><p>
  <hr>
  
+ <h1><b><a href="https://github.com/awwkk/usdom/blob/master/forfor.md">♠ 红潮即将倾覆  天之将明 ♠ </a></b></h1></div></p>
+ <br>
  <div align="right">
 <a href="https://github.com/3fmd/true/blob/master/01.md"><img src="https://github.com/j168/j688/blob/master/menu/2018-10-15backhome.jpg" width="65" hight="10"></a></div>
  
