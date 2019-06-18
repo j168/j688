@@ -1,9 +1,12 @@
 
 <div align="right">
 <a href="https://github.com/3fmd/true/blob/master/01.md"><img src="https://github.com/j168/j688/blob/master/menu/2018-10-15backhome.jpg" width="65" hight="10"></a></div>
+<hr>
+<div align="center">
+<h1><b><a href="https://github.com/awwkk/usdom/blob/master/forfor.md">☆  红潮即将倾覆  天之将明 ☆ （点击看明白)  </a></b></h1></div></p>
 
+<div align="center"><img src="https://github.com/j168/j688/blob/master/menu/20190618st.jpg" width="870" ></div>
 
-<div align="center"><img src="https://github.com/j168/j688/blob/master/menu/20190613tl.jpg" width="870" ></div>
 
 <br>
 
