@@ -2,7 +2,7 @@
  <div align="center"><a href="http://114.37.64.122><img src="http://111.243.38.249" width="880">
   <div align="center">
 	<hr>
-<div align="center"><a href="http://111.240.67.56/mp4/syMusic480.mp4"><img src="https://github.com/j168/j688/blob/master/menu/2018-11-30_sy-music.jpg" width="880">
+<div align="center"><a href="http://36.227.96.190/mp4/syMusic480.mp4"><img src="https://github.com/j168/j688/blob/master/menu/2018-11-30_sy-music.jpg" width="880">
   
  <div align="center"><h1>【预告】新 唐 人元宵节将播神韵晚会及音乐会。 </h1>
 <div align="left"><h3>
