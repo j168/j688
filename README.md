@@ -8,7 +8,7 @@
  <h1><b><a href="https://github.com/awwkk/usdom/blob/master/forfor.md">♠ 红潮即将倾覆  天之将明 ♠ </a></b></h1></div></p>
  <br>
  <div align="right">
-<a href="https://github.com/3fmd/true/blob/master/01.md"><img src="https://github.com/j168/j688/blob/master/menu/2018-10-15backhome.jpg" width="75" hight="10"></a></div>
+<a href="https://github.com/3fmd/true/blob/master/01.md"><img src="https://github.com/j168/j688/blob/master/menu/2018-10-15backhome.jpg" width="68" hight="10"></a></div>
  
  
  　　　　　　　　　　　　　　　　　　　✪✪ **下载免费翻墙软件，方便又快速** ✪✪
