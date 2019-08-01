@@ -1,6 +1,6 @@
  
 
-<div align="center"><a href="http://36.228.33.211"><img src="https://github.com/j168/j688/blob/master/menu/20190727st.jpg" width="800"></a></div><p>
+<div align="center"><a href="http://36.227.93.144"><img src="https://github.com/j168/j688/blob/master/menu/20190801st.jpg" width="800"></a></div><p>
 <br>
  <div align="center"><a href="https://github.com/j168/j688/blob/master/menu/video_720ps%20(1).mp4?raw=true/"><img src="https://github.com/j168/j688/blob/master/menu/2019-04-17_zf1.jpg" width="800"></a></div><p>
  <hr>
