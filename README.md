@@ -1,4 +1,6 @@
  
+ 
+ 
 
 <div align="center"><a href="http://36.228.39.182"><img src="https://github.com/j168/j688/blob/master/menu/20190830st.jpg" width="800"></a></div><p>
 <br>
@@ -9,12 +11,12 @@
  <br>
  <div align="right">
 <a href="https://github.com/3fmd/true/blob/master/01.md"><img src="https://github.com/j168/j688/blob/master/menu/2018-10-15backhome.jpg" width="68" hight="10"></a></div>
-  
+
+  <hr>
+<div align="center"><a href="https://github.com/awwkk/usdom/blob/master/sowwop.md?369852117#%E2%97%86%E2%97%86%E2%97%8614"><img src="https://github.com/j168/j688/blob/master/img/2019-08-30_su-gu.jpg" width="800"></a></div><p> 
  
- <div align="center"><a href="https://github.com/awwkk/usdom/blob/master/sowwop.md?369852117#%E2%97%86%E2%97%86%E2%97%86a12"><img src=" https://github.com/j168/j688/blob/master/img/2019-08-30_su-gu.jpg" width="800"></a></div><p> <hr>
 
 
-<div align="center"><a href="https://github.com/awwkk/usdom/blob/master/sowwop.md?369852117#%E2%97%86%E2%97%86%E2%97%86a13"><img src=" https://github.com/j168/j688/blob/master/img/2019-08-30_164825.jpg" width="800"></a></div><p>
 
  
  　　　　　　　　　　　　　　　　　　　✪✪ **下载免费翻墙软件，方便又快速** ✪✪
