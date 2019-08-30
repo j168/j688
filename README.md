@@ -14,8 +14,8 @@
 
   <hr>
 <div align="center"><a href="https://github.com/awwkk/usdom/blob/master/sowwop.md?369852117#%E2%97%86%E2%97%86%E2%97%8614"><img src="https://github.com/j168/j688/blob/master/img/2019-08-30_su-gu.jpg" width="800"></a></div><p> 
- 
-
+  <br>
+<div align="center"><a href="https://github.com/awwkk/usdom/blob/master/sowwop.md?369852117#%E2%97%86%E2%97%86%E2%97%86a13"><img src="https://github.com/j168/j688/blob/master/img/2019-08-30_164825.jpg" width="800"></a></div><p> 
 
 
  
