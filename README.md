@@ -19,10 +19,11 @@
 <hr>
 
 
-<div align="center"><a href="http://61.228.118.20"><img src="https://github.com/j168/j688/blob/master/menu/2019-09-11Refusing.jpg" width="800"></a></div><p>
+<div align="center"><a href="http://61.228.118.20"><img src="https://github.com/j168/j688/blob/master/menu/2019-09-11Refusing.jpg" width="750"></a></div><p>
 <br>
-
-
+<hr>
+<div align="center"><a href="https://ppt.cc/fEct7x"><img src="https://github.com/j168/j688/blob/master/menu/2019-09-19_moon-p.jpg" width="650"></a></div><p>
+<br>
 
 
 
