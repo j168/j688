@@ -1,14 +1,14 @@
 
 
 <div align="right">
-<a href="https://github.com/3fmd/true/blob/master/01.md"><img src="https://github.com/j168/j688/blob/master/menu/2018-10-15backhome.jpg" width="65" hight="10"></a></div>
+<a href="https://github.com/3fmd/true/blob/master/01.md"><img src="https://github.com/j168/j688/blob/master/menu/2018-10-15backhome.jpg" width="80" hight="10"></a></div>
 <hr>
 <div align="center">
 <h1><b><a href="https://github.com/awwkk/usdom/blob/master/forfor.md">☆  红潮即将倾覆  天之将明 ☆ （点击看明白)  </a></b></h1></div></p>
 
 <hr>
 <table align="center" >
-<div align="center"><img src="https://github.com/j168/j688/blob/master/menu/20190923st.jpg" width="850" hight="20"></div>
+<div align="center"><img src="https://github.com/j168/j688/blob/master/menu/20190927st.jpg" width="850" hight="20"></div>
 	<hr>
 <div align="center"><a href="https://git.io/ykykyk"><img src="https://github.com/j168/j688/blob/master/menu/20190516po.jpg" width="860" hight="30"></div>
 <br>
