@@ -4,7 +4,7 @@
 	<hr>
 <div align="center"><a href="http://36.227.102.141/mp4/syMusic480.mp4"><img src="https://github.com/j168/j688/blob/master/menu/2018-11-30_sy-music.jpg" width="880">
   
- <div align="center"><h1>◆◆ 失落的宝藏——您在中国大陆目前看不到的现场演出 ◆◆ </h1>
+ <div align="center"><h1>◆◆ 失落的宝藏——您在中国大陆目前看不到的现场演出  </h1>
 <div align="left"><h3>
 	
 <h2>《新唐人全球华人新年晚会——神韵晚会》，由神韵艺术团、神韵交响乐团、飞天艺术大学、飞天艺术学院联合演出；同时，
