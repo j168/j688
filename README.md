@@ -71,7 +71,7 @@
 <hr>
 <div align="center"><a href="https://git.io/ssbbaaa"><img src="https://github.com/j168/j688/blob/master/menu/2019-04-09_f.jpg" width="780"></div>
 <hr>
-<div align="center"><a href="file:///E:/%E6%88%91%E7%9A%84%E6%96%87%E4%BB%B6/Desktop/top-2019-1117.html"><img src="https://github.com/j168/j688/blob/master/menu/2018-1011notall.jpg" width="700" >
+<div align="center"><a href=""><img src="https://github.com/j168/j688/blob/master/menu/2018-1011notall.jpg" width="700" >
 	</div>
 
 <br>
