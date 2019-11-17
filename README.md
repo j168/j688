@@ -10,7 +10,7 @@
  <h1><b><a href="https://github.com/awwkk/usdom/blob/master/forfor.md">♠ 红潮即将倾覆  天之将明 ♠ </a></b></h1></div></p>
  <br>
  <div align="right">
-<a href="https://github.com/3fmd/true/blob/master/01.md"><img src="https://github.com/j168/j688/blob/master/menu/2018-10-15backhome.jpg" width="80" hight="10"></a></div>
+<a href="https://ppt.cc/fJU94x"><img src="https://github.com/j168/j688/blob/master/menu/2018-10-15backhome.jpg" width="80" hight="10"></a></div>
 
   <hr>
 <div align="center"><a href="https://github.com/awwkk/usdom/blob/master/sowwop.md?369852117#%E2%97%86%E2%97%86%E2%97%8614"><img src="https://github.com/j168/j688/blob/master/img/2019-08-30_su-gu.jpg" width="800"></a></div><p> 
