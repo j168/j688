@@ -1,11 +1,11 @@
 
 <div align="right">
-<a href="https://github.com/3fmd/true/blob/master/01.md"><img src="https://github.com/j168/j688/blob/master/menu/2018-10-15backhome.jpg" width="65" hight="10"></a></div>
+<a href="https://git.io/wnn"><img src="https://github.com/j168/j688/blob/master/menu/2018-10-15backhome.jpg" width="65" hight="10"></a></div>
 
 <div align="center">
 <h1><b><a href="https://github.com/awwkk/usdom/blob/master/forfor.md">☆  红潮即将倾覆  天之将明 ☆ （点击看明白)  </a></b></h1></div></p>
 <hr>
-<div align="center"><img src="https://github.com/j168/j688/blob/master/menu/20191125st.jpg" width="870" ></div>
+<div align="center"><img src="https://github.com/j168/j688/blob/master/menu/20191129st.jpg" width="870" ></div>
 <br>
 <hr>
 <div align="center"><a href="https://raw.githubusercontent.com/j168/j688/master/zfmp4/burn-or-hit.mp4"><img src="https://github.com/j168/j688/blob/master/menu/2019-04-17_zf2.jpg" width="870" ></a></div><br>
