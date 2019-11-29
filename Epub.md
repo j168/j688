@@ -2,7 +2,7 @@
 
 
 <div align="right">
-<a href="https://github.com/3fmd/true/blob/master/01.md"><img src="https://github.com/j168/j688/blob/master/menu/2018-10-15backhome.jpg" width="65" hight="10"></a></div>
+<a href="https://git.io/duk"><img src="https://github.com/j168/j688/blob/master/menu/2018-10-15backhome.jpg" width="65" hight="10"></a></div>
 
 <hr>
 <div align="center"><a href="https://220.141.130.215"><img src="https://github.com/j168/j688/blob/master/menu/20191129st.jpg" width="800" ></div>
