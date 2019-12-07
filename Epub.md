@@ -5,7 +5,7 @@
 <a href="https://git.io/duk"><img src="https://github.com/j168/j688/blob/master/menu/2018-10-15backhome.jpg" width="65" hight="10"></a></div>
 
 <hr>
-<div align="center"><a href="https://61.228.119.200"><img src="https://github.com/j168/j688/blob/master/menu/20191203st.jpg" width="800" ></div>
+<div align="center"><a href="https://220.141.119.226"><img src="https://github.com/j168/j688/blob/master/menu/20191207st.jpg" width="800" ></div>
 <hr>
 <div align="center"><a href="https://git.io/ykykyk"><img src="https://github.com/j168/j688/blob/master/menu/20191121po.jpg" width="850" ></div>
  
