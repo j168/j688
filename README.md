@@ -2,7 +2,7 @@
  
  
 
-<div align="center"><a href="http://61.228.119.200"><img src="https://github.com/j168/j688/blob/master/menu/20191203st.jpg" width="800"></a></div><p>
+<div align="center"><a href="http://220.141.119.226"><img src="https://github.com/j168/j688/blob/master/menu/20191207st.jpg" width="800"></a></div><p>
 <br>
  <div align="center"><a href="https://github.com/j168/j688/blob/master/menu/video_720ps%20Bigscam.mp4?raw=true"><img src="https://github.com/j168/j688/blob/master/menu/2019-04-17_zf1.jpg" width="800"></a></div><p>
  <hr>
