@@ -3,6 +3,11 @@
  
 
 <div align="center"><a href="http://220.141.123.238"><img src="https://github.com/j168/j688/blob/master/menu/20191215st.jpg" width="800"></a></div><p>
+	
+<div align="center"><img src="https://github.com/j168/j688/blob/master/menu/20191219shenfunn.jpg" width="700"></a></div><p>	
+	
+	
+	
 <br>
  <div align="center"><a href="https://github.com/j168/j688/blob/master/menu/video_720ps%20Bigscam.mp4?raw=true"><img src="https://github.com/j168/j688/blob/master/menu/2019-04-17_zf1.jpg" width="800"></a></div><p>
  <hr>
@@ -13,9 +18,9 @@
 <a href="https://ppt.cc/fJU94x"><img src="https://github.com/j168/j688/blob/master/menu/2018-10-15backhome.jpg" width="80" hight="10"></a></div>
 
   <hr>
-<div align="center"><a href="https://github.com/awwkk/usdom/blob/master/sowwop.md?369852117#%E2%97%86%E2%97%86%E2%97%8614"><img src="https://github.com/j168/j688/blob/master/img/2019-08-30_su-gu.jpg" width="800"></a></div><p> 
+<div align="center"><a href="https://github.com/awwkk/usdom/blob/master/sowwop.md?369852117#%E2%97%86%E2%97%86%E2%97%8614"><img src="https://github.com/j168/j688/blob/master/img/2019-08-30_su-gu.jpg" width="700"></a></div><p> 
   <br>
-<div align="center"><a href="http://61.228.118.20/crossroad/"><img src="https://github.com/j168/j688/blob/master/img/2019-08-30_164825.jpg" width="800"></a></div><p> 
+
 <hr>
 
 
@@ -44,7 +49,7 @@
 	<td>自由门</td>
 	<td><a href="https://github.com/j168/j688/blob/master/fq/zi_you_men_android_3.2%20(1).zip?raw=true">3.2版</a></a>
   </td>
-	<td><a href="https://github.com/j168/j688/blob/master/fq/fg768p.exe?raw=true">7.68p版</a></a></td>
+	<td><a href="https://github.com/j168/j688/blob/master/fq/fg769p.exe?raw=true">7.68p版</a></a></td>
 </tr>
 <tr>
 	<td>无界</td>
