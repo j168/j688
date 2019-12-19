@@ -2,7 +2,7 @@
  
  
 
-<div align="center"><a href="http://36.228.2.212"><img src="https://github.com/j168/j688/blob/master/menu/20191219st.jpg" width="800"></a></div><p>
+<div align="center"><a href="http://36.228.2.212"><img src="https://github.com/j168/j688/blob/master/menu/20191219st.jpg" width="700"></a></div><p>
 	
 <div align="center"><img src="https://github.com/j168/j688/blob/master/menu/20191219shenfunn.jpg" width="700"></a></div><p>
  <div align="center"><h3><a href="http://sy.epub.vin/sy">请大家告诉大家，错过可能得等一年！</h3></P><br/>
@@ -31,8 +31,8 @@
  </table>
 	 	
 	
-<hr>
- 　　　　　　　　　　　　　　　　　　　✪✪ **下载免费翻墙软件，方便又快速** ✪✪
+
+ 　　　　　　　　　　　　　　✪✪ **下载免费翻墙软件，方便又快速** ✪✪
 
 <table>
 <div align="center"><table border="0" width="200%" align=center" bordercolor="gold">
@@ -64,9 +64,7 @@
 	<td><a href="https://github.com/j168/j688/blob/master/fq/iNTD_TVsp1.apk?raw=true">TVsp1</a></td>
 
 </tr>
-</table> </div>	
-	
-	
+</table> </div>	<hr>
 	
 	
 	
@@ -74,9 +72,7 @@
 <br>
  <div align="center"><a href="https://github.com/j168/j688/blob/master/menu/video_720ps%20Bigscam.mp4?raw=true"><img src="https://github.com/j168/j688/blob/master/menu/2019-04-17_zf1.jpg" width="800"></a></div><p>
  <hr>
- <div align="center">
- <h1><b><a href="https://github.com/awwkk/usdom/blob/master/forfor.md">♠ 红潮即将倾覆  天之将明 ♠ </a></b></h1></div></p>
- <br>
+
  <div align="right">
 <a href="https://ppt.cc/fJU94x"><img src="https://github.com/j168/j688/blob/master/menu/2018-10-15backhome.jpg" width="80" hight="10"></a></div>
 
@@ -84,10 +80,13 @@
 <div align="center"><a href="https://github.com/awwkk/usdom/blob/master/sowwop.md?369852117#%E2%97%86%E2%97%86%E2%97%8614"><img src="https://github.com/j168/j688/blob/master/img/2019-08-30_su-gu.jpg" width="700"></a></div><p> 
   <br>
 
+ <div align="center">
+ <h1><b><a href="https://github.com/awwkk/usdom/blob/master/forfor.md">♠ 红潮即将倾覆  天之将明 ♠ </a></b></h1></div></p>
+ <br>
+
 <hr>
 
-
-<div align="center"><a href="http://61.228.118.20"><img src="https://github.com/j168/j688/blob/master/menu/2019-09-11Refusing.jpg" width="750"></a></div><p>
+<div align="center"><a href="http://61.228.118.20"><img src="https://github.com/j168/j688/blob/master/menu/2019-09-11Refusing.jpg" width="650"></a></div><p>
 <br>
 <hr>
 <div align="center"><a href="https://ppt.cc/fEct7x"><img src="https://github.com/j168/j688/blob/master/menu/2019-09-19_moon-p.jpg" width="650"></a></div><p>
