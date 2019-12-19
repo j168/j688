@@ -4,6 +4,7 @@
 
 <div align="center"><a href="http://36.228.2.212"><img src="https://github.com/j168/j688/blob/master/menu/20191219st.jpg" width="700"></a></div><p><br>
 	
+	✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪
 <div align="center"><img src="https://github.com/j168/j688/blob/master/menu/20191219shenfunn.jpg" width="700"></a></div><p>
  <div align="center"><h3><a href="http://sy.epub.vin/sy">请大家告诉大家，错过可能得等一年！</h3></P><br/>
 
