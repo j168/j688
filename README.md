@@ -2,7 +2,7 @@
  
  
 
-<div align="center"><a href="http://36.228.2.212"><img src="https://github.com/j168/j688/blob/master/menu/20191219st.jpg" width="700"></a></div><p>
+<div align="center"><a href="http://36.228.2.212"><img src="https://github.com/j168/j688/blob/master/menu/20191219st.jpg" width="700"></a></div><p><br>
 	
 <div align="center"><img src="https://github.com/j168/j688/blob/master/menu/20191219shenfunn.jpg" width="700"></a></div><p>
  <div align="center"><h3><a href="http://sy.epub.vin/sy">请大家告诉大家，错过可能得等一年！</h3></P><br/>
@@ -30,10 +30,8 @@
 </tr>
  </table>
 	 	
-	
-
- 　　　　　　　　　　　　　　✪✪ **下载免费翻墙软件，方便又快速** ✪✪
-
+ 　　　　　　　　　　　　　　
+<div align="center"><h2>✪✪ **下载免费翻墙软件，方便又快速** ✪✪</h2>
 <table>
 <div align="center"><table border="0" width="200%" align=center" bordercolor="gold">
 	
@@ -86,24 +84,20 @@
 
 <hr>
 
-<div align="center"><a href="http://61.228.118.20"><img src="https://github.com/j168/j688/blob/master/menu/2019-09-11Refusing.jpg" width="650"></a></div><p>
+<div align="center"><a href="https://git.io/ls02"><img src="https://github.com/j168/j688/blob/master/menu/2019-09-11Refusing.jpg" width="650"></a></div><p>
 <br>
 <hr>
 <div align="center"><a href="https://ppt.cc/fEct7x"><img src="https://github.com/j168/j688/blob/master/menu/2019-09-19_moon-p.jpg" width="650"></a></div><p>
 <br>
 
 
-
-
-
- 
 <hr>
 
 <div align="center"><a href="https://github.com/j168/j688/blob/master/Epub.md"><img src="https://github.com/j168/j688/blob/master/menu/2018-01-29_e_m.jpg" 
 ![](https://github.com/j168/j688/blob/master/menu/2018-01-29_e_m.jpg) <p></a>  </div>
 
 <hr>
-<div align="center"><a href="https://git.io/ssbbaaa"><img src="https://github.com/j168/j688/blob/master/menu/2019-04-09_f.jpg" width="780"></div>
+<div align="center"><a href="https://git.io/ssbbaaa"><img src="https://github.com/j168/j688/blob/master/menu/2019-04-09_f.jpg" width="700"></div>
 <hr>
 <div align="center"><a href="https://git.io/trtptp"><img src="https://github.com/j168/j688/blob/master/menu/2018-1011notall.jpg" width="700" >
 	</div>
