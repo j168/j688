@@ -45,7 +45,7 @@
 	<td>自由门</td>
 	<td><a href="https://github.com/j168/j688/blob/master/fq/zi_you_men_android_3.2%20(1).zip?raw=true">3.2版</a></a>
   </td>
-	<td><a href="https://github.com/j168/j688/blob/master/fq/fg769p.exe?raw=true">7.68p版</a></a></td>
+	<td><a href="https://github.com/j168/j688/blob/master/fq/fg770p.exe?raw=true">7.70p版</a></a></td>
 </tr>
 <tr>
 	<td>无界</td>
