@@ -34,7 +34,7 @@
 
 <table  width="800">
 	<tr>
-<td><a href="https://github.com/j168/j688/blob/master/fq/fg768p.exe?raw=true"><img src="https://github.com/j168/j688/blob/master/menu/fg1.jpg" align="middle" width="300" alt="自由门(7.68p)" style="max- width:100%;"></a></td>
+<td><a href="https://github.com/j168/j688/blob/master/fq/fg770p.exe?raw=true"><img src="https://github.com/j168/j688/blob/master/menu/fg1.jpg" align="middle" width="300" alt="自由门(7.70p)" style="max- width:100%;"></a></td>
 		
 <td><a href="https://github.com/j168/j688/blob/master/fq/zi_you_men_android_3.2%20(1).zip?raw=true"><img src="https://github.com/j168/j688/blob/master/menu/fa.jpg" align="middle" width="300" alt="fa"></a></td>
 
