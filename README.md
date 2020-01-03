@@ -2,7 +2,7 @@
  
  
 
-<div align="center"><a href="http://220.141.128.109"><img src="https://github.com/j168/j688/blob/master/menu/20191231tl.jpg" width="700"></a></div><p><br>
+<div align="center"><a href="https://git.io/swspip"><img src="https://github.com/j168/j688/blob/master/menu/20191231tl.jpg" width="700"></a></div><p><br>
 	
 	✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪
 <div align="center"><img src="https://github.com/j168/j688/blob/master/menu/20191219shenfunn.jpg" width="700"></a></div><p>
