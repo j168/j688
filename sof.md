@@ -9,7 +9,7 @@
 
 <hr>
 <table align="center" >
-<div align="center"><img src="https://github.com/j168/j688/blob/master/menu/20200108st.jpg" width="850" hight="20"></div>
+<div align="center"><img src="https://github.com/j168/j688/blob/master/menu/20200112tl.jpg" width="850" hight="20"></div>
 	
 	＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
 <div align="center"><a href="https://git.io/ykykyk"><img src="https://github.com/j168/j688/blob/master/menu/20191121po.jpg" width="800" hight="30"></div>
