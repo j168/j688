@@ -12,8 +12,9 @@
 <div align="center"><IMG SRC="https://github.com/gofun72/telove/blob/master/img/2019-12-20_111019.jpg" width=70>请收藏本网址http://git.io/she  (随时掌握免翻即时视频: http://220.141.125.164 ) </a><br></div><br><hr>
 
 
-<div align="center"><h2><a href="http://j20.xyrs.bid/mp4/news668/2019/01/sy8.mp4">请大家告诉大家，错过可能得等一年！</h2></P>
+<div align="center"><h2><a href="http://j120.xyrs.bid/mp4/news668/2020/01/sy7.mp4">请大家告诉大家，错过可能得等一年！</h2></P>
 <p></p>
+ 
  
   <div><h2>这场晚会请大陆地區朋友通过"爱博电视" 或使用"韩星五号的新唐人中国频道" 收看<a href="https://github.com/j168/j688/blob/master/Yun-1.md"> 播出参数</h2></div></p>
  
