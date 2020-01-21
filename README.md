@@ -6,17 +6,17 @@
 	
 	
 	✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪
-<div align="center"><img src="https://github.com/j168/j688/blob/master/menu/20191219shenfunn.jpg" width="700"></a></div><p>
- <div align="center"><h3><a href="http://sy.epub.vin/sy">请大家告诉大家，错过可能得等一年！</h3></P><br/>
+<div align="center"><img src="https://github.com/j168/j688/blob/master/menu/2020-01-21p.jpg" width="800"></a></div><p>
+ <div align="center"><h3><a href="http://J120.xyrs.bid/sy/">请大家告诉大家，错过可能得等一年！</h3></P><br/>
 
-<div align="center"><h3><a href="https://www.ntdtv.com/gb/television">◆请通过翻墙软件自由门、无界浏览或iNTD TV 观看 ，并请锁定中国频道这个网址：https://www.ntdtv.com/gb/television  </h3></div> 
+
   <br/>
 <hr>
-<div align="center"><h3><a href="http://220.141.125.164/sy/">收视方法</h3></a></div> 
+<div align="center"><h3><a href="http://J120.xyrs.bid/sy/">收视方法</h3></a></div> 
 <table>
 	
 <tr>
-<td width="450">1、大陆观众可通过韩星五号的新唐人中国频道收看。</td>
+<td width="450">1、大陆观众可通过韩星五A号的新唐人中国频道--播出参数收看。</td>
 <td width="440">3、大陆观众还可通过翻墙软件收看新唐人中国频道。 </td>
 </tr>
 	
