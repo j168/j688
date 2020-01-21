@@ -1,5 +1,5 @@
 
- <div align="center"><a href="http://j20.xyrs.bid/sy/"><IMG SRC=" https://github.com/j168/j688/blob/master/menu/shenyuan2020.jpg" width=860></a><br></div><br>
+ <div align="center"><a href="http://j20.xyrs.bid/sy/"><IMG SRC="https://github.com/j168/j688/blob/master/menu/shenyuan2020.jpg" width=860></a><br></div><br>
 	
 
 <a href="http://j20.xyrs.bid/sy/"> <h2>【预告】新唐人中国新年期间独家播出2020全球华人新年晚会</h2></a>
@@ -12,17 +12,21 @@
 <div align="center"><IMG SRC="https://github.com/gofun72/telove/blob/master/img/2019-12-20_111019.jpg" width=70>请收藏本网址http://git.io/sho  (随时掌握免翻即时视频: http://220.141.125.164 ) </a><br></div><br><hr>
 
 
-<div align="center"><h2><a href="http://j120.xyrs.bid/mp4/news668/2020/01/sy7.mp4">请大家告诉大家，错过可能得等一年！</h2></P>
-<p></p></div>
+<div align="center"><h2><a href="http://j120.xyrs.bid/mp4/news668/2020/01/sy7.mp4">请大家告诉大家，错过可能得等一年！</h2></P></div>
  
  
-  <td><h2>这场晚会请大陆地區朋友通过"爱博电视" 或使用"韩星五号的新唐人中国频道" 收看<a href="https://github.com/j168/j688/blob/master/Yun-1.md"> 播出参数</h2></td></p><br/>
+  <td><h2>这场晚会请大陆地區朋友通过"爱博电视" 或使用"韩星五号的新唐人中国频道" 收看<a href="https://github.com/j168/j688/blob/master/Yun-1.md"> 播出参数</h2></td><hr>
+ 
+ --------------------------------------
+ 
+ 
+ 
+ 
  
  
  
  <h2>✪✪ 特别推荐您这款(爱博电视桌机版)✪✪ 
  <a href="https://github.com/j168/j688/blob/master/fq/Green_iPPOTV_n.exe?raw=true"><img src="https://github.com/j168/j688/blob/master/menu/ip.jpg" width="80"></a> 平时可以收看新唐人电视的视频，收听希望之声国际广播电台的广播。</h2>
-  <br><br/>
  
 
  
