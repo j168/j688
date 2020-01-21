@@ -6,8 +6,9 @@
 	
 	
 	✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪✪
-<div align="center"><img src="https://github.com/j168/j688/blob/master/menu/2020-01-21p.jpg" width="800"></a></div><p>
- <div align="center"><h3><a href="http://J120.xyrs.bid/sy/">请大家告诉大家，错过可能得等一年！</h3></P><br/>
+<div align="center"><a href="https://github.com/j168/j688/blob/master/Yun.md"> <img src="https://github.com/j168/j688/blob/master/menu/2020-01-21p.jpg" width="800"></a></div><p>
+	<br/>
+ <div align="center"><h3><a href="http://J120.xyrs.bid/sy/">请大家告诉大家，错过可能得等一年！</h3></P><br/></a>
 
 
   <br/>
@@ -28,7 +29,7 @@
 </table>
 <table>
 <tr>
-<td width="880"><h3 align="center"><a href="https://github.com/sodore/dsds/blob/master/dong/Green_iPPOTV.exe?raw=true">◆推荐通过爱博电视收看新唐人中国频道，请选用中国频道400◆  </h3</a></td>
+<td width="880"><h3 align="center"><a href="https://github.com/sodore/dsds/blob/master/dong/Green_iPPOTV.exe?raw=true">◆大陆观众朋友必需透过"爱博电视收看新唐人中国频道" 请选用中国频道400◆  </h3</a></td>
 </tr>
  </table>
 	 	
