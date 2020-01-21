@@ -15,18 +15,20 @@
 <div align="center"><h2><a href="http://j120.xyrs.bid/mp4/news668/2020/01/sy7.mp4">请大家告诉大家，错过可能得等一年！</h2></P></div>
  
  
-  <td><h2>这场晚会请大陆地區朋友通过"爱博电视" 或使用"韩星五号的新唐人中国频道" 收看<a href="https://github.com/j168/j688/blob/master/Yun-1.md"> 播出参数</h2></td><hr>
+  <td><h2>这场晚会请大陆地區朋友通过"爱博电视" 或使用"韩星五号的新唐人中国频道" 收看<a href="https://github.com/j168/j688/blob/master/Yun-1.md"> 播出参数</a> </h2></td><hr>
+  
+   <h2>✪✪ 特别推荐您这款(爱博电视桌机版)✪✪ 
+ <a href="https://github.com/j168/j688/blob/master/fq/Green_iPPOTV_n.exe?raw=true"><img src="https://github.com/j168/j688/blob/master/menu/ip.jpg" width="80"></a> 平时可以收看新唐人电视的视频，收听希望之声国际广播电台的广播。</h2></a>
  
- --------------------------------------
- 
- 
- 
- 
- 
+
  
  
- <h2>✪✪ 特别推荐您这款(爱博电视桌机版)✪✪ 
- <a href="https://github.com/j168/j688/blob/master/fq/Green_iPPOTV_n.exe?raw=true"><img src="https://github.com/j168/j688/blob/master/menu/ip.jpg" width="80"></a> 平时可以收看新唐人电视的视频，收听希望之声国际广播电台的广播。</h2>
+ 
+ 
+ 
+ 
+ 
+
  
 
  
