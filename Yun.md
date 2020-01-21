@@ -12,14 +12,23 @@
 <div align="center"><IMG SRC="https://github.com/gofun72/telove/blob/master/img/2019-12-20_111019.jpg" width=70>请收藏本网址http://git.io/sho  (随时掌握免翻即时视频: http://220.141.125.164 ) </a><br></div><br><hr>
 
 
-<div align="center"><h2><a href="http://j120.xyrs.bid/mp4/news668/2020/01/sy7.mp4">请大家告诉大家，错过可能得等一年！</h2></P></div>
+<div align="center"><h2><a href="http://j120.xyrs.bid/mp4/news668/2020/01/sy7.mp4">请大家告诉大家，错过可能得等一年！</h2></P></a></div>
  
  
   <td><h2>这场晚会请大陆地區朋友通过"爱博电视" 或使用"韩星五号的新唐人中国频道" 收看<a href="https://github.com/j168/j688/blob/master/Yun-1.md"> 播出参数</a> </h2></td><hr>
   
    <h2>✪✪ 特别推荐您这款(爱博电视桌机版)✪✪ 
- <a href="https://github.com/j168/j688/blob/master/fq/Green_iPPOTV_n.exe?raw=true"><img src="https://github.com/j168/j688/blob/master/menu/ip.jpg" width="80"></a> 平时可以收看新唐人电视的视频，收听希望之声国际广播电台的广播。</h2></a>
+ <a href="https://github.com/j168/j688/blob/master/fq/Green_iPPOTV_n.exe?raw=true"><img src="https://github.com/j168/j688/blob/master/menu/ip.jpg" width="80"></a> 平时可以收看新唐人电视的视频，收听希望之声国际广播电台的广播。</h2></a><br/>
  
+ 
+ <div align="center">
+<h2><a href="https://github.com/j168/j688/blob/master/sof.md">请先下载翻墙软件详细阅读下方的收视方法。((请大家告诉大家))</h2></a></div><br>
+ 
+ 
+ [<div align="center"><h2>下载翻墙软件下载点及使用说明(EPUB 格式电子书)</h2></div>](https://github.com/j168/j688/blob/master/ebook/epub/fangqian%20(2).epub?raw=true)
+ 
+ <br/>
+ <h2 a align="center"><a href="https://github.com/j168/j688/blob/master/Epub.md">■手机上好看的电子书系列 (ePub版)</h2>
 
  
  
