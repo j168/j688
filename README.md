@@ -3,6 +3,18 @@
  
 
 <div align="center"><a href="https://36.228.9.144"><img src="https://github.com/j168/j688/blob/master/menu/20200121st.jpg" width="650"></a></div><hr>
+
+<table>
+<tr>
+ <td>
+ <a href="https://git.io/pamja"> <h3>如何 “ 三退保命? ”</a>,<b>请复制上面→免翻视频 IP 或</b> <a href="http://36.228.9.144/td/">→点 【三退大潮】--为什么要退党？</a> 可留言三退或用翻墙软件自己办理三退</h3></td>
+</tr> 
+
+<tr>
+ <td>
+ <a href="https://git.io/pamja"> <h3>如何 “ 三退保命 ”</a> 请点击翻牆网站  https://git.io/opopop  下载 { 翻牆软件 }→找 { 大紀元網站 }  ( http://www.dajiyuan.com ) 三退! 请勿错失机缘</h3></td>
+</tr>
+  </table> 
 	
 	
 	
