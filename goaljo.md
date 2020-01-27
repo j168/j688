@@ -2,8 +2,14 @@
 
 <hr>
 
-<div align="center"><a href="http://220.141.123.251/"><img src="https://github.com/j168/j688/blob/master/menu/20200125st.jpg" width="800"></a></div>
+<div align="center"><a href="http://220.141.123.251/"><img src="https://github.com/j168/j688/blob/master/menu/20200125st.jpg" width="650"></a></div>
 <br/>
+<hr>
+<div align="center"><a href="http://git.io/jou99/"><img src="https://github.com/j168/j688/blob/master/menu/2020-01-27youknowp.jpg" width="700"></a></div>
+<br/>
+
+
+
 
 
 ******
