@@ -2,7 +2,7 @@
  
  
 
-<div align="center"><a href="https://220.141.123.251"><img src="https://github.com/j168/j688/blob/master/menu/20200125st.jpg" width="650"></a></div><hr>
+<div align="center"><a href="https://36.228.14.30"><img src="https://github.com/j168/j688/blob/master/menu/20200129st.jpg" width="650"></a></div><hr>
 
 <table>
 <tr>
@@ -95,7 +95,7 @@
 	<td>自由门</td>
 	<td><a href="https://github.com/j168/j688/blob/master/fq/zi_you_men_android_3.2%20(1).zip?raw=true">3.2版</a></a>
   </td>
-	<td><a href="https://github.com/j168/j688/blob/master/fq/fg770p.exe?raw=true">7.70p版</a></a></td>
+	<td><a href="https://github.com/j168/j688/blob/master/fq/fg771pb1.exe?raw=true">7.71p版</a></a></td>
 </tr>
 <tr>
 	<td>无界</td>
