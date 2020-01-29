@@ -52,7 +52,17 @@
 </tr>
   </table> 
 	
-	
+<table>
+	<tr>
+	<td>
+	<div align=center><h1><a href=https://git.io/souye>看更多真相</h1></a></div>
+
+
+<td><a href="https://github.com/gofanben/gm/blob/master/download/nf1358885.html?raw=true"><div align=center><h1>大纪元每日新闻 武汉肺炎——新型冠状病毒爆发.html  (双击右键,另存文件)</a></center></td></h1>
+</tr></td>
+</table>
+
+<hr>
 	
 <div align="center"><a href="https://github.com/j168/j688/blob/master/Yun.md"> <img src="https://github.com/j168/j688/blob/master/menu/2020-01-21p.jpg" width="700"></a></div></p>
 	
