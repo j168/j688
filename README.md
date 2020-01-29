@@ -55,10 +55,10 @@
 <table>
 	<tr>
 	<td>
-	<div align=center><h1><a href=https://git.io/souye>看更多真相</h1></a></div>
+	<div align=center><h2><a href=https://git.io/souye>看更多真相</h2></a></div>
 
 
-<td><a href="https://github.com/gofanben/gm/blob/master/download/nf1358885.html?raw=true"><div align=center><h1>大纪元每日新闻 武汉肺炎——新型冠状病毒爆发.html  (双击右键,另存文件)</a></center></td></h1>
+<td><a href="https://github.com/gofanben/gm/blob/master/download/nf1358885.html?raw=true"><div align=center><h2>大纪元每日新闻 武汉肺炎——新型冠状病毒爆发.html  (双击右键(滑鼠按右键), 另存文件)</a></center></td></h2>
 </tr></td>
 </table>
 
