@@ -165,20 +165,18 @@
 
 <br>
  <div align="center"><h2>◆活摘器官罪行--铁证如山◆</h2><p></div>
+ <div aling="left">
 	★<a href="http://www.zhuichaguoji.org/taxonomy/term/15">一位法轮功学员经历的器官活摘体检的证词</a> <p>	
 	★黄洁夫和王海波参与活摘法轮功学员器官的证据<p>	
 	★《活摘 - 十年调查》（视频)
 		最新影片<a href="https://youtu.be/f8Eo1Mhps20">《活摘-十年调查》</a>呈现了对中共5名现任前任中央政治局常委、一名军委副主席、国防部长、总后卫生部长、多名法院、政法委、610官员的调查录音，活摘现场持枪警卫的举证录音，30多个医院移植医生承认用法轮功学员器官的录音，还有中共媒体的报道、中国医院891家移植医院的历年数据，等等，……揭露了这个星球上从未有过的邪恶和灾难，而这种灾难已经延伸向更多的善良民众。
 </p>
-
 <hr>
-
 
  <h2>中共大量活摘法轮功学员器官国家犯罪罪证讲座 <p>
      2017年12月10日             
-
 <td><br>
-		<a href="https://vimeo.com/246679660"><img src="https://github.com/j168/j688/blob/master/img/2018-01-29_173701.jpg"                        width="500" hight="25"></a>	
+	<a href="https://vimeo.com/246679660"><img src="https://github.com/j168/j688/blob/master/img/2018-01-29_173701.jpg"                        width="500" hight="25"></a>	
 	</td>	<tr>
 
 <h3> 简介<br>
