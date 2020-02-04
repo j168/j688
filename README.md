@@ -64,7 +64,7 @@
 
 <hr>
 	
-<div align="center"><a href="https://github.com/j168/j688/blob/master/Yun.md"> <img src="https://github.com/j168/j688/blob/master/menu/2020-02-04sy.jpg" width="600"></a></div></p>
+<div align="center"><a href="https://github.com/j168/j688/blob/master/Yun.md"> <img src="https://github.com/j168/j688/blob/master/menu/2020-02-04sy.jpg" width="800"></a></div></p>
 	
 	
  <div align="center"><h2><a href="http://tel0105.xyrs.bid/mp4/news668/2020/01/sy9.mp4">请大家告诉大家，错过可能得等一年！</h2></P></a>
