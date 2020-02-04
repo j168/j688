@@ -165,7 +165,7 @@
 
 <br>
  <div align="center"><h2>◆活摘器官罪行--铁证如山◆</h2><p></div>
- <div aling="left">
+ <div align="left">
 	★<a href="http://www.zhuichaguoji.org/taxonomy/term/15">一位法轮功学员经历的器官活摘体检的证词</a> <p>	
 	★黄洁夫和王海波参与活摘法轮功学员器官的证据<p>	
 	★《活摘 - 十年调查》（视频)
