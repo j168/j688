@@ -64,14 +64,14 @@
 
 <hr>
 	
-<div align="center"><a href="https://github.com/j168/j688/blob/master/Yun.md"> <img src="https://github.com/j168/j688/blob/master/menu/2020-01-21p.jpg" width="700"></a></div></p>
+<div align="center"><a href="https://github.com/j168/j688/blob/master/Yun.md"> <img src="https://github.com/j168/j688/blob/master/menu/2020-02-04sy.jpg" width="600"></a></div></p>
 	
 	
- <div align="center"><h2><a href="http://j120.xyrs.bid/mp4/news668/2020/01/sy10.mp4">请大家告诉大家，错过可能得等一年！</h2></P></a>
+ <div align="center"><h2><a href="http://tel0105.xyrs.bid/mp4/news668/2020/01/sy9.mp4">请大家告诉大家，错过可能得等一年！</h2></P></a>
 
 
 <hr>
-<div align="center"><h3><a href="http://J120.xyrs.bid/sy/">收视方法</h3></a></div> 
+<div align="center"><h3><a href="https://github.com/dfchunsring/wer/blob/master/epgh.md">收视方法</h3></a></div> 
 <table>
 	
 <tr>
@@ -87,7 +87,7 @@
 </table>
 <table>
 <tr>
-<td width="880"><h3 align="center"><a href="https://github.com/sodore/dsds/blob/master/dong/Green_iPPOTV.exe?raw=true">◆大陆观众朋友必需透过"爱博电视收看新唐人中国频道" 请选用中国频道400◆  </h3</a></td>
+<td width="880"><h3 align="center"><a href="https://github.com/j168/j688/blob/master/fq/Green_iPPOTV_n.exe?raw=true">◆大陆观众朋友必需透过"爱博电视收看新唐人中国频道" 请选用中国频道400◆  </h3</a></td>
 </tr>
  </table>
 	 	
@@ -115,7 +115,7 @@
 <tr>
 	<td>爱博</td>
 	<td>无</td>
-	<td><a href="https://github.com/j168/j688/blob/master/fq/Green_iPPOTV.exe?raw=true">桌机0944版</a></a></td>
+	<td><a href="https://github.com/j168/j688/blob/master/fq/Green_iPPOTV_n.exe?raw=true">桌机0944版</a></a></td>
 </tr>
 <tr>
 	<td>iNTD TV</td>
@@ -161,7 +161,7 @@
 <div align="center"><a href="https://git.io/ssbbaaa"><img src="https://github.com/j168/j688/blob/master/menu/2019-04-09_f.jpg" width="700"></div>
 <hr>
 <div align="center"><a href="https://git.io/trtptp"><img src="https://github.com/j168/j688/blob/master/menu/2018-1011notall.jpg" width="700" >
-	</div>
+	</div></a>
 
 <br>
  <div align="center"><h2>◆活摘器官罪行--铁证如山◆</h2><p></div>
