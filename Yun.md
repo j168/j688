@@ -18,7 +18,7 @@
 
 <div align="center"><h2>《神韵晚会大陆频道播出时间如下》<p></h2></div>
 <div align="center"><IMG SRC="https://github.com/j168/j688/blob/master/menu/2020-0204Lantern%20Festival.jpg" width=700></a><br></div><br><hr>
-<div align="center"><IMG SRC="https://github.com/gofun72/telove/blob/master/img/2019-12-20_111019.jpg" width=70>请收藏本网址http://git.io/sho  (随时掌握免翻即时视频: http://220.141.130.31 ) </a><br></div><br><hr>
+<div align="center"><IMG SRC="https://github.com/gofun72/telove/blob/master/img/2019-12-20_111019.jpg" width=70>请收藏本网址http://git.io/sho  (随时掌握免翻即时视频: http://36.227.96.182 ) </a><br></div><br><hr>
 
 
 <div align="center"><h2><a href="http://tel0105.xyrs.bid/mp4/news668/2020/01/sy8.mp4">请大家告诉大家，错过可能得等一年！</h2></P></a></div>
