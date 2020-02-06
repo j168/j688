@@ -98,7 +98,7 @@
 
 
 
-  <div align="center"><img src="https://github.com/j168/j688/blob/master/menu/2018-0524sy.jpg" width="780" ></div>
+
 
 <td><!-- <a href="https://github.com/gofanben/gm/blob/master/jysl.md"><img src="https://github.com/j168/j688/blob/master/img/2018-07-25_mgrw.jpg" width="265"  border="0" alt=""></a> --></td>
 
