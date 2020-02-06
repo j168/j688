@@ -89,7 +89,7 @@
 	<td><center><a href="https://github.com/j168/j688/blob/master/ebook/epub/goalCh12.epub?raw=true">【共产主义的终极目的】（12）</a></center></td>
 </tr>
 	<td><center></center></td>
-</table>
+</table><hr>
 
 <td><a href="https://git.io/epubc"><img src="https://github.com/j168/j688/blob/master/img/2018-07-25_mgrw.jpg" width="500"  border="0" alt=""></a></td>
 <h3><td><center><a href="https://git.io/epubc">【魔鬼在统治着我们的世界
