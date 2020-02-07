@@ -17,7 +17,7 @@
 海外观众如要观看最新的〝神韵晚会〃，请到当地剧院买票观看，演出行程可以查询：http://www.shenyun.com</p>
 
 <div align="center"><h2>《神韵晚会大陆频道播出时间如下》<p></h2></div>
-<div align="center"><IMG SRC="https://github.com/j168/j688/blob/master/menu/2020-0204Lantern%20Festival.jpg" width=700></a><br></div><br><hr>
+<div align="center"><IMG SRC="https://github.com/j168/j688/blob/master/menu/2020-0207Lantern%20Festival.jpg" width=700></a><br></div><br><hr>
 <div align="center"><IMG SRC="https://github.com/gofun72/telove/blob/master/img/2019-12-20_111019.jpg" width=70>请收藏本网址http://git.io/sho  (随时掌握免翻即时视频: http://36.227.96.182 ) </a><br></div><br><hr>
 
 
