@@ -4,18 +4,7 @@
 <a href="https://git.io/birdf"><img src="https://github.com/j168/j688/blob/master/menu/2018-10-15backhome.jpg" width="80" hight="10"></a></div>
 <hr>
 
-<div align="center">
-<h1><b><a href="https://github.com/awwkk/usdom/blob/master/forfor.md">☆  红潮即将倾覆  天之将明 ☆ （点击看明白)  </a></b></h1></div></p>
 
-<hr>
-<table align="center" >
-<div align="center"><img src="https://github.com/j168/j688/blob/master/menu/20200205st.jpg" width="650" hight="20"></div>
-	
-	＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
-<div align="center"><a href="https://git.io/ykykyk"><img src="https://github.com/j168/j688/blob/master/menu/20191121po.jpg" width="800" hight="30"></div>
-<br>
-	＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
-	<div align="center"><a href="https://github.com/j168/j688/blob/master/zf.md"><img src="https://github.com/j168/j688/blob/master/menu/2019-04-17_zf2.jpg" width="760" hight="30"></a></div>
 
 ＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
 
@@ -570,3 +559,18 @@
   </div>
 </body>
 </html>
+
+========================================================================================================================
+<hr>
+<div align="center">
+<h1><b><a href="https://github.com/awwkk/usdom/blob/master/forfor.md">☆  红潮即将倾覆  天之将明 ☆ （点击看明白)  </a></b></h1></div></p>
+
+<hr>
+<table align="center" >
+<div align="center"><img src="https://github.com/j168/j688/blob/master/menu/20200205st.jpg" width="650" hight="20"></div>
+	
+	＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+<div align="center"><a href="https://git.io/ykykyk"><img src="https://github.com/j168/j688/blob/master/menu/20191121po.jpg" width="800" hight="30"></div>
+<br>
+	＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+	<div align="center"><a href="https://github.com/j168/j688/blob/master/zf.md"><img src="https://github.com/j168/j688/blob/master/menu/2019-04-17_zf2.jpg" width="760" hight="30"></a></div>
