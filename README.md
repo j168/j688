@@ -229,6 +229,6 @@ YouTube：https://youtu.be/Bmg0zVkbvec
 <hr>
 <div align="center"><a href="http://220.141.128.156/sy"><img src="https://github.com/j168/j688/blob/master/menu/2019-sy-2020.jpg" width="550" ></div></a>
 	 <div align="right">
-<a href="https://ppt.cc/fJU94x"><img src="https://github.com/j168/j688/blob/master/menu/2020-0210backhome.jpg" width="100" hight="10"></a></div>
+<div align="center"><a href="https://ppt.cc/fJU94x"><img src="https://github.com/j168/j688/blob/master/menu/2020-0210backhome.jpg" width="500" hight="10"></a></div>
 	
 	
