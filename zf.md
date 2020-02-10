@@ -1,6 +1,5 @@
 
-<div align="right">
-<a href="https://git.io/wnn"><img src="https://github.com/j168/j688/blob/master/menu/2018-10-15backhome.jpg" width="65" hight="10"></a></div>
+
 
 <div align="center">
 <h1><b><a href="https://github.com/awwkk/usdom/blob/master/forfor.md">☆  红潮即将倾覆  天之将明 ☆ （点击看明白)  </a></b></h1></div></p>
@@ -128,5 +127,6 @@
 
 <a href="https://git.io/ssbbaaa"><img src="https://github.com/j168/j688/blob/master/menu/2019-04-09_f.jpg" width="780">
 
+<div align="center"><a href="https://git.io/ls02"><img src="https://github.com/j168/j688/blob/master/menu/2020-0210backhome.jpg" width="500" hight="10"></a></div>
 
 
