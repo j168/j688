@@ -1,14 +1,5 @@
 
 
-<div align="right">
-<a href="https://git.io/birdf"><img src="https://github.com/j168/j688/blob/master/menu/2018-10-15backhome.jpg" width="80" hight="10"></a></div>
-<hr>
-
-
-
-
-
-
 
 
 <table align="center" >
@@ -561,6 +552,10 @@
 </html>
 
 ＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+
+<div align="center"><a href="https://git.io/ls02"><img src="https://github.com/j168/j688/blob/master/menu/2020-0210backhome.jpg" width="500" hight="10"></a></div>
+
+
 <hr>
 <div align="center">
 <h1><b><a href="https://github.com/awwkk/usdom/blob/master/forfor.md">☆  红潮即将倾覆  天之将明 ☆ （点击看明白)  </a></b></h1></div></p>
