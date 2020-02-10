@@ -2,7 +2,7 @@
  
  
 
-<div align="center"><a href="https://220.141.128.156"><img src="https://github.com/j168/j688/blob/master/menu/20200209st.jpg" width="650"></a></div><hr>
+<div align="center"><a href="https://220.141.128.156"><img src="https://github.com/j168/j688/blob/master/menu/20200209st.jpg" width="600"></a></div><hr>
 
 <table>
 <tr>
@@ -64,13 +64,12 @@
 
 <hr>
 	
-<div align="center"><a href="https://github.com/j168/j688/blob/master/download/listen2.mp3?raw=true"> <img src="https://github.com/j168/j688/blob/master/menu/2020-0208think.jpg" width="700"></a></div></p>
+<div align="center"><a href="https://github.com/j168/j688/blob/master/download/listen2.mp3?raw=true"> <img src="https://github.com/j168/j688/blob/master/menu/2020-0208think.jpg" width="600"></a></div></p>
 	
 	
-
 </tr>
  </table>
-	 	
+	 <hr>	
  　　　　　　　　　　　　　　
 <div align="center"><h2>✪✪ **下载免费翻墙软件，方便又快速** ✪✪</h2>
 <table>
