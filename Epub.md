@@ -1,8 +1,6 @@
 
 
 
-<div align="right">
-<a href="https://git.io/duk"><img src="https://github.com/j168/j688/blob/master/menu/2018-10-15backhome.jpg" width="65" hight="10"></a></div>
 
 <hr>
 <div align="center"><a href="https://220.141.128.156"><img src="https://github.com/j168/j688/blob/master/menu/20200209st.jpg" width="700" ></div>
@@ -197,4 +195,5 @@
  <li><span class="h2Minghui"> ■ </span>突破网络封锁访问真相小花， <a href="https://git.io/goal">https://git.io/goal</a>。 这个链接国内不屏蔽，请妥为收藏，页面有真相部落及时IP，也可以下载所有最新版翻墙软件，如自由门、无界、爱博、iNTD等 
       <p></p></li>
 
+<div align="center"><a href="https://git.io/jou99"><img src="https://github.com/j168/j688/blob/master/menu/2020-0210backhome.jpg" width="500" hight="10"></a></div>
 
