@@ -64,30 +64,10 @@
 
 <hr>
 	
-<div align="center"><a href="https://github.com/j168/j688/blob/master/Yun.md"> <img src="https://github.com/j168/j688/blob/master/menu/2020-02-04sy.jpg" width="800"></a></div></p>
+<div align="center"><a href="https://github.com/j168/j688/blob/master/download/listen2.mp3?raw=true"> <img src="https://github.com/j168/j688/blob/master/menu/2020-0208think.jpg" width="700"></a></div></p>
 	
 	
- <div align="center"><h2><a href="http://tel0105.xyrs.bid/mp4/news668/2020/01/sy9.mp4">请大家告诉大家，错过可能得等一年！</h2></P></a>
 
-
-<hr>
-<div align="center"><h3><a href="https://github.com/dfchunsring/wer/blob/master/epgh.md">收视方法</h3></a></div> 
-<table>
-	
-<tr>
-<td width="450">1、大陆观众可通过韩星五A号的新唐人中国频道--播出参数收看。</td>
-<td width="440">3、大陆观众还可通过翻墙软件收看新唐人中国频道。 </td>
-</tr>
-	
-<tr>
-	<td width="450">2、通过iNTDTV和机顶盒收看新唐人中国频道</td>
-	<td width="440">4、使用爱博电视之新唐人中国频道收看。</td>
-	
-</tr>
-</table>
-<table>
-<tr>
-<td width="880"><h3 align="center"><a href="https://github.com/j168/j688/blob/master/fq/Green_iPPOTV_n.exe?raw=true">◆大陆观众朋友必需透过"爱博电视收看新唐人中国频道" 请选用中国频道400◆  </h3</a></td>
 </tr>
  </table>
 	 	
@@ -132,8 +112,7 @@
  <div align="center"><a href="https://github.com/j168/j688/blob/master/menu/video_720ps%20Bigscam.mp4?raw=true"><img src="https://github.com/j168/j688/blob/master/menu/2019-04-17_zf1.jpg" width="800"></a></div><p>
  <hr>
 
- <div align="right">
-<a href="https://ppt.cc/fJU94x"><img src="https://github.com/j168/j688/blob/master/menu/2018-10-15backhome.jpg" width="80" hight="10"></a></div>
+
 
   <hr>
 <div align="center"><a href="https://github.com/awwkk/usdom/blob/master/sowwop.md?369852117#%E2%97%86%E2%97%86%E2%97%8614"><img src="https://github.com/j168/j688/blob/master/img/2019-08-30_su-gu.jpg" width="700"></a></div><p> 
@@ -250,3 +229,7 @@ YouTube：https://youtu.be/Bmg0zVkbvec
 	<h3>翻墙软件:无界.自由门.桌机版在计算机上能看(建议在安装flash才行) ; 爱博是只能安装在桌几上看! 请大家留意此 (建议下载爱博电视 就可直接看了 也可以透过卫星韩星5A号) !</h3>
 <hr>
 <div align="center"><a href="http://220.141.128.156/sy"><img src="https://github.com/j168/j688/blob/master/menu/2019-sy-2020.jpg" width="550" ></div></a>
+	 <div align="right">
+<a href="https://ppt.cc/fJU94x"><img src="https://github.com/j168/j688/blob/master/menu/2020-0210backhome.jpg" width="100" hight="10"></a></div>
+	
+	
