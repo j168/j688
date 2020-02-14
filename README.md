@@ -2,7 +2,7 @@
  
  
 
-<div align="center"><a href="https://36.228.14.248"><img src="https://github.com/j168/j688/blob/master/menu/20200210st.jpg" width="600"></a></div><hr>
+<div align="center"><a href="https://220.141.128.182"><img src="https://github.com/j168/j688/blob/master/menu/20200214st.jpg" width="600"></a></div><hr>
 
 <table>
 <tr>
@@ -227,7 +227,7 @@ YouTube：https://youtu.be/Bmg0zVkbvec
  <div align="center"><h2><a href="http://j120.xyrs.bid/sy/">【神韵演出特别报导】 </h2></a></div>
 	<h3>翻墙软件:无界.自由门.桌机版在计算机上能看(建议在安装flash才行) ; 爱博是只能安装在桌几上看! 请大家留意此 (建议下载爱博电视 就可直接看了 也可以透过卫星韩星5A号) !</h3>
 <hr>
-<div align="center"><a href="http://36.228.14.248/sy"><img src="https://github.com/j168/j688/blob/master/menu/2019-sy-2020.jpg" width="550" ></div></a>
+<div align="center"><a href="http://220.141.128.182/sy"><img src="https://github.com/j168/j688/blob/master/menu/2019-sy-2020.jpg" width="550" ></div></a>
 	 <div align="right">
 <div align="center"><a href="https://git.io/ls02"><img src="https://github.com/j168/j688/blob/master/menu/2020-0210backhome.jpg" width="600" hight="10"></a></div>
 		 
