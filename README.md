@@ -80,6 +80,20 @@
 	<td width=250;>安卓版</td>
 	<td width=250;>桌机版</td>
   </tr>
+  
+ <tr>
+	<td>快速免翻-网门</td>
+	<td><a href="https://github.com/j168/j688/blob/master/fq/PnyETyGmm.1.apk?raw=true">ogatea</a></a></td>
+	<td><a href="https://github.com/j168/j688/blob/master/fq/oGate.exe?raw=true">ogatew</a></a></td>
+	
+</tr>
+<tr>
+	<td>快速免翻-神洲明见网</td>
+	<td><a href="https://github.com/j168/j688/blob/master/fq/SzzdOgate.apk?raw=true">明见网（Szzd)</a></a></td>
+	<td><a href="http://www.shenzhouzhengdao.org/">神洲正道</a></a></td>
+	
+</tr>
+  
   <tr>
 	<td>自由门</td>
 	<td><a href="https://github.com/j168/j688/blob/master/fq/zi_you_men_android_3.2%20(1).zip?raw=true">3.2版</a></a>
