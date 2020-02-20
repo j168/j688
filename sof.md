@@ -25,7 +25,7 @@
 		
 <td><a href="https://github.com/j168/j688/blob/master/fq/zi_you_men_android_3.2%20(1).zip?raw=true"><img src="https://github.com/j168/j688/blob/master/menu/fa.jpg" align="middle" width="300" alt="fa"></a></td>
 
-<td><a href="https://github.com/j168/j688/blob/master/fq/fg773p.exe?raw=true"><img src="https://github.com/j168/j688/blob/master/menu/fj.jpg" align="middle" width="300" alt="f-desktop"></a> </td>
+<td><a href="https://github.com/j168/j688/blob/master/fq/fg774p.exe?raw=true"><img src="https://github.com/j168/j688/blob/master/menu/fj.jpg" align="middle" width="300" alt="f-desktop"></a> </td>
 
 
 <tr>
