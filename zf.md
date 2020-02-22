@@ -120,7 +120,7 @@
 
 ***********************
 
-<a href="http://qq.leucas.men/posts/0e/sJPBxc/EBag-9KxexZ/iRo0MmcZXC-/omkyoCeq/L1L8ODKD-/S.htm">●了解法轮功（法轮大法）真相，闻道、得法、修炼，万古机缘一瞬间。</a>
+<a href="https://www.falungong.club/%e6%b3%95%e8%bd%ae%e5%8a%9f%e4%b8%8e%e5%81%a5%e5%ba%b7-2/">●了解法轮功（法轮大法）真相，闻道、得法、修炼，万古机缘一瞬间。</a>
 	
 -------------------------------------------------------
 ******
