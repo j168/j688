@@ -2,7 +2,7 @@
  
  
 
-<div align="center"><a href="https://118.161.137.19"><img src="https://github.com/j168/j688/blob/master/menu/20200222st.jpg" width="600"></a></div><hr>
+<div align="center"><a href="http://111.241.92.70"><img src="https://github.com/j168/j688/blob/master/menu/20200222st.jpg" width="600"></a></div><hr>
 
 <table>
 <tr>
