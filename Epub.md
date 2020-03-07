@@ -3,7 +3,7 @@
 
 
 <hr>
-<div align="center"><a href="http://111.241.92.70"><img src="https://github.com/j168/j688/blob/master/menu/20200222st.jpg" width="600" ></div>
+<div align="center"><a href="http://220.141.130.83"><img src="https://github.com/j168/j688/blob/master/menu/20200222st.jpg" width="600" ></div>
 <hr>
 <div align="center"><a href="https://git.io/ykykyk"><img src="https://github.com/j168/j688/blob/master/menu/20191121po.jpg" width="750" ></div>
  
