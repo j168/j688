@@ -2,7 +2,7 @@
  
  
 
-<div align="center"><a href="http://220.141.130.83"><img src="https://github.com/j168/j688/blob/master/menu/20200222st.jpg" width="600"></a></div><hr>
+<div align="center"><a href="http://36.228.47.69"><img src="https://github.com/j168/j688/blob/master/menu/20200308st.jpg" width="600"></a></div><hr>
 
 <table>
 <tr>
@@ -43,7 +43,7 @@
 <h4>在中共治下，天灾永远与人祸相伴，从所谓的“三年自然灾害”，到文革、“六四”、迫害法轮功、非典及此次疫情，中共一直在打着维稳的幌子在草菅人命，他们维护的不是国家稳定，而是执政者的政权稳定；他们考虑的不是人民的利益，而是他们自己头上的乌纱帽。疫情肆虐，生命的代价反而让人看清中共的邪恶本质。</h4>
 </br>	 
 	 
- <a href="https://git.io/pamja"> <h3>如何 “ 三退保命? ”</a>,<b>请复制上面→免翻视频 IP 或</b> <a href="http://36.228.9.144/td/">→点 【三退大潮】--为什么要退党？</a> 可留言三退或用翻墙软件自己办理三退</td>
+ <a href="https://git.io/pamja"> <h3>如何 “ 三退保命? ”</a>,<b>请复制上面→免翻视频 IP 或</b> <a href="http://36.228.47.69/td/">→点 【三退大潮】--为什么要退党？</a> 可留言三退或用翻墙软件自己办理三退</td>
 </tr> 
 
 <tr>
@@ -243,7 +243,7 @@ YouTube：https://youtu.be/Bmg0zVkbvec
  <div align="center"><h2><a href="http://j120.xyrs.bid/sy/">【神韵演出特别报导】 </h2></a></div>
 	<h3>翻墙软件:无界.自由门.桌机版在计算机上能看(建议在安装flash才行) ; 爱博是只能安装在桌几上看! 请大家留意此 (建议下载爱博电视 就可直接看了 也可以透过卫星韩星5A号) !</h3>
 <hr>
-<div align="center"><a href="http://118.161.137.19/sy"><img src="https://github.com/j168/j688/blob/master/menu/2019-sy-2020.jpg" width="550" ></div></a>
+<div align="center"><a href="http://36.228.47.69/sy"><img src="https://github.com/j168/j688/blob/master/menu/2019-sy-2020.jpg" width="550" ></div></a>
 	 <div align="right">
 <div align="center"><a href="https://git.io/ls02"><img src="https://github.com/j168/j688/blob/master/menu/2020-0210backhome.jpg" width="600" hight="10"></a></div>
 		 
