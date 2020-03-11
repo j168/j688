@@ -55,9 +55,9 @@
 <table>
 	<tr>
 	<td>
+<div align="center"><img src="https://github.com/j168/j688/blob/master/menu/2020-03-11%E7%AE%AD%E9%A0%AD.jpg" width="100"></a></div>
 	<div align=center><h2><a href=https://git.io/souye>看更多真相</h2></a></div>
 
-<a target="_blank" href="https://github.com/cdzvd231/ntdtv/blob/master/gb/442749_1.md#1"><img src="https://raw.githubusercontent.com/cdzvd231/www/master/t/jt.gif"></a>
 <td><a href="https://github.com/gofanben/gm/blob/master/download/nf1358885.html?raw=true"><div align=center><h2>大纪元每日新闻 武汉肺炎——新型冠状病毒爆发.html  (双击右键(滑鼠按右键), 另存文件)</a></center></td></h2>
 </tr></td>
 </table>
@@ -66,7 +66,7 @@
 	
 <div align="center"><a href="https://github.com/j168/j688/blob/master/download/listen2.mp3?raw=true"> <img src="https://github.com/j168/j688/blob/master/menu/2020-0208think.jpg" width="600"></a></div></p>
 	<hr>
-	<div align="center"><img src="https://github.com/j168/j688/blob/master/menu/2020-03-11%E7%AE%AD%E9%A0%AD.jpg" width="100"></a></div>
+	<a target="_blank" href="https://github.com/cdzvd231/ntdtv/blob/master/gb/442749_1.md#1"><img src="https://raw.githubusercontent.com/cdzvd231/www/master/t/jt.gif"></a>
 	<h1><a target="_blank" href="https://github.com/cdzvd231/ntdtv/blob/master/gb/442749_1.md#1"><strong>肺炎疫情知多少----看海外真实报道</strong></a><br></h1>
 	
 	
