@@ -65,6 +65,10 @@
 <hr>
 	
 <div align="center"><a href="https://github.com/j168/j688/blob/master/download/listen2.mp3?raw=true"> <img src="https://github.com/j168/j688/blob/master/menu/2020-0208think.jpg" width="600"></a></div></p>
+	<hr>
+	<h1><a target="_blank" href="https://github.com/cdzvd231/ntdtv/blob/master/gb/442749_1.md#1"><strong>肺炎疫情知多少----看海外真实报道</strong></a><br></h1>
+	
+	
 	
 	
 </tr>
