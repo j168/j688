@@ -2,7 +2,11 @@
  
  
 
-<div align="center"><a href="http://220.141.118.207"><img src="https://github.com/j168/j688/blob/master/menu/20200311st.jpg" width="600"></a></div><hr>
+<div align="center"><a href="http://61.228.187.52/310"><img src="https://github.com/j168/j688/blob/master/menu/20200313st.jpg" width="600"></a></div>
+<div align="center"><h1><b>当天有效即时新闻与视频请赶紧点阅:<p>http://61.228.176.68/310</h1></a></b></div>
+</br>
+
+<hr>
 
 <table>
 <tr>
