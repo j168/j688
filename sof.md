@@ -21,11 +21,11 @@
 <td><a href="https://github.com/j168/j688/blob/master/fq/SzzdOgate.apk?raw=true"><img src="https://github.com/j168/j688/blob/master/menu/2020-02-15Szzd.jpg" align="middle" width="300" alt="神洲明见网" style="max- width:100%;"></a></td>
 
 </tr>
-<td><a href="https://github.com/j168/j688/blob/master/fq/fg776p.exe?raw=true"><img src="https://github.com/j168/j688/blob/master/menu/fg1.jpg" align="middle" width="300" alt="自由门(7.74p)" style="max- width:100%;"></a></td>
+<td><a href="https://github.com/j168/j688/blob/master/fq/fg777p.exe?raw=true"><img src="https://github.com/j168/j688/blob/master/menu/fg1.jpg" align="middle" width="300" alt="自由门(7.77)" style="max- width:100%;"></a></td>
 		
-<td><a href="https://github.com/j168/j688/blob/master/fq/zi_you_men_android_3.2%20(1).zip?raw=true"><img src="https://github.com/j168/j688/blob/master/menu/fa.jpg" align="middle" width="300" alt="fa"></a></td>
+<td><a href="https://github.com/j168/j688/blob/master/fq/fgma40.apk?raw=true"><img src="https://github.com/j168/j688/blob/master/menu/fa.jpg" align="middle" width="300" alt="fa4.0"></a></td>
 
-<td><a href="https://github.com/j168/j688/blob/master/fq/fg776p.exe?raw=true"><img src="https://github.com/j168/j688/blob/master/menu/fj.jpg" align="middle" width="300" alt="f-desktop"></a> </td>
+<td><a href="https://github.com/j168/j688/blob/master/fq/fg777p.exe?raw=true"><img src="https://github.com/j168/j688/blob/master/menu/fj.jpg" align="middle" width="300" alt="f-desktop"></a> </td>
 
 
 <tr>
