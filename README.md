@@ -105,9 +105,9 @@
   
   <tr>
 	<td>自由门</td>
-	<td><a href="https://github.com/j168/j688/blob/master/fq/zi_you_men_android_3.2%20(1).zip?raw=true">3.2版</a></a>
+	<td><a href="https://github.com/j168/j688/blob/master/fq/fgma40.apk?raw=true">4.0版</a></a>
   </td>
-	<td><a href="https://github.com/j168/j688/blob/master/fq/fg776p.exe?raw=true">7.76版</a></a></td>
+	<td><a href="https://github.com/j168/j688/blob/master/fq/fg777p.exe?raw=true">7.77版</a></a></td>
 </tr>
 <tr>
 	<td>无界</td>
