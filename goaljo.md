@@ -2,8 +2,8 @@
 
 <hr>
 
-<div align="center"><a href="http://61.228.187.182/310"><img src="https://github.com/j168/j688/blob/master/menu/20200313st.jpg" width="650"></a></div>
-<div align="center"><h1><b>当天有效即时新闻与视频请赶紧点阅:<p>http://61.228.187.182/310</h1></a></b></div>
+<div align="center"><a href="http://61.228.180.23/310"><img src="https://github.com/j168/j688/blob/master/menu/20200313st.jpg" width="650"></a></div>
+<div align="center"><h1><b>当天有效即时新闻与视频请赶紧点阅:<p>http://61.228.180.23/310</h1></a></b></div>
 <br/>
 <hr>
 <div align="center"><a href="http://git.io/jou99"><img src="https://github.com/j168/j688/blob/master/menu/2020-01-27youknowp.jpg" width="720"></a></div>
