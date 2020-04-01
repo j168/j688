@@ -105,7 +105,7 @@
   
   <tr>
 	<td>自由门</td>
-	<td><a href="https://github.com/j168/j688/blob/master/fq/fgma40.apk?raw=true">4.0版</a></a>
+	<td><a href="https://github.com/j168/j688/blob/master/fq/fgma41.apk?raw=true">4.1版</a></a>
   </td>
 	<td><a href="https://github.com/j168/j688/blob/master/fq/fg778p.exe?raw=true">7.78版</a></a></td>
 </tr>
