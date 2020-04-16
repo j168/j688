@@ -23,7 +23,7 @@
 </tr>
 <td><a href="https://github.com/j168/j688/blob/master/fq/fg778p.exe?raw=true"><img src="https://github.com/j168/j688/blob/master/menu/fg1.jpg" align="middle" width="300" alt="自由门(7.78)" style="max- width:100%;"></a></td>
 		
-<td><a href="https://github.com/j168/j688/blob/master/fq/fgma41.apk?raw=true"><img src="https://github.com/j168/j688/blob/master/menu/fa.jpg" align="middle" width="300" alt="fa4.1"></a></td>
+<td><a href="https://github.com/j168/j688/blob/master/fq/fgma42.apk?raw=true"><img src="https://github.com/j168/j688/blob/master/menu/fa.jpg" align="middle" width="300" alt="fa4.1"></a></td>
 
 <td><a href="https://github.com/j168/j688/blob/master/fq/fg778p.exe?raw=true"><img src="https://github.com/j168/j688/blob/master/menu/fj.jpg" align="middle" width="300" alt="f-desktop"></a> </td>
 
