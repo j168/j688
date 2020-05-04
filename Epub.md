@@ -3,8 +3,9 @@
 
 
 <hr>
-<div align="center"><a href="http://61.228.216.252/310"><img src="https://github.com/j168/j688/blob/master/menu/20200313st.jpg" width="650" ></div></a>
-	<div align="center"><h1><b>当天(一天)有效即时新闻与视频请赶紧点阅:<p> http://61.228.216.252/310 </h1></b></a></div>
+<div align="center"><a href="https://bit.ly/2VIs51L"><img src="https://github.com/j168/j688/blob/master/menu/20200313st.jpg" width="650" ></div></a>
+	<div align="center"><h1><b>点击视频点阅:<p> https://bit.ly/2VIs51L </h1></b></a></div>
+	<h3>网页若出现〝你的连现不是私人连线″，点→进阶，再点→继续前往...，就可以看到视频了</h3>
 	
 <hr>
 <div align="center"><a href="https://git.io/ykykyk"><img src="https://github.com/j168/j688/blob/master/menu/20191121po.jpg" width="750" ></div>
