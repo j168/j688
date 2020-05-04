@@ -2,8 +2,8 @@
  
  
 
-<div align="center"><a href="http://61.228.216.252/310"><img src="https://github.com/j168/j688/blob/master/menu/20200313st.jpg" width="650"></a></div>
-<div align="center"><h1><b>当天有效即时新闻与视频请赶紧点阅:<p>http://61.228.216.252/310</h1></a></b></div>
+<div align="center"><a href="https://bit.ly/2VIs51L"><img src="https://github.com/j168/j688/blob/master/menu/20200313st.jpg" width="650"></a></div>
+<div align="center"><h1><b>点击视频:<p>https://bit.ly/2VIs51L</h1></a></b></div>
 </br>
 
 <hr>
@@ -107,7 +107,7 @@
 	<td>自由门</td>
 	<td><a href="https://github.com/j168/j688/blob/master/fq/fgma42.apk?raw=true">4.2版</a></a>
   </td>
-	<td><a href="https://github.com/j168/j688/blob/master/fq/fg778p.exe?raw=true">7.78版</a></a></td>
+	<td><a href="https://github.com/j168/j688/blob/master/fq/fg779p.exe?raw=true">7.78版</a></a></td>
 </tr>
 <tr>
 	<td>无界</td>
